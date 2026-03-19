@@ -4,8 +4,7 @@ from pydantic import BaseModel
 import pandas as pd
 import os
 import io
-from salary_prediction import SalaryPredictor
-
+from backend.salary_prediction import SalaryPredictor
 app = FastAPI(title="Workforce Salary Prediction API")
 
 # Setup CORS to allow React frontend
