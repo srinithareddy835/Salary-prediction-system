@@ -1,0 +1,1001 @@
+Age,Gender,Education Level,Years of Experience,Job Role,Department,Location,Performance Rating,Skills,Company Tier,Certifications,Past Companies,Salary
+50,Female,High School,27,Data Scientist,IT,Mumbai,5.0,Marketing,Mid-Size,Basic,5,8121865.92
+36,Male,Master,14,Software Engineer,IT,Hyderabad,4.0,Management,Mid-Size,None,1,5006283.92
+29,Male,Bachelor,11,Sales Rep,Sales,Kolkata,2.0,Communication,Mid-Size,None,4,1996023.34
+42,Other,Bachelor,20,HR Manager,HR,Kolkata,5.0,Management,Enterprise,None,4,5627280.44
+40,Other,PhD,18,Data Scientist,IT,Delhi,4.0,,Mid-Size,None,1,7383397.09
+44,Male,Bachelor,21,HR Manager,HR,Kolkata,3.0,Communication,Mid-Size,None,5,4476604.71
+32,Other,PhD,12,HR Manager,HR,Hyderabad,2.0,,Startup,None,4,3861198.23
+32,Female,Bachelor,13,Marketing Specialist,Marketing,Mumbai,2.0,SQL,Mid-Size,None,3,2983641.0
+45,Female,Master,27,Marketing Specialist,Marketing,Delhi,2.0,Communication,Startup,None,5,5966825.37
+57,Male,Master,34,Marketing Specialist,Marketing,Kolkata,5.0,Python,Mid-Size,None,4,8190299.78
+45,Female,Master,25,Data Scientist,IT,Kolkata,1.0,Communication,Startup,None,4,7409489.59
+24,Male,PhD,0,HR Manager,HR,Hyderabad,5.0,Python,Startup,None,1,764219.46
+43,Female,Bachelor,24,Software Engineer,IT,Chennai,4.0,Management,Startup,None,3,5530883.16
+23,Male,PhD,4,Sales Rep,Sales,Chennai,1.0,Management,Startup,None,5,1280663.04
+45,Male,Bachelor,22,Marketing Specialist,Marketing,Remote,4.0,Communication,Startup,Basic,2,3269014.43
+51,Male,Bachelor,30,Marketing Specialist,Marketing,Kolkata,1.0,Management,Enterprise,Basic,0,6609626.31
+59,Female,Bachelor,41,HR Manager,HR,Mumbai,5.0,Marketing,Mid-Size,None,3,9007079.38
+23,Male,Bachelor,4,HR Manager,HR,Delhi,2.0,SQL,Mid-Size,None,2,1081554.33
+42,Female,Bachelor,19,Data Scientist,IT,Kolkata,3.0,SQL,Mid-Size,None,3,5290109.83
+54,Other,Bachelor,31,Data Scientist,IT,Bangalore,2.0,Python,Startup,Basic,2,9545669.77
+33,Male,Bachelor,13,Marketing Specialist,Marketing,Delhi,5.0,Management,Enterprise,None,2,3473798.42
+43,Female,Master,19,HR Manager,HR,Remote,1.0,Python,Startup,None,3,3331769.28
+46,Male,Master,25,Software Engineer,IT,Chennai,2.0,SQL,Startup,Basic,1,7027959.93
+48,Female,Bachelor,30,Sales Rep,Sales,Kolkata,5.0,SQL,Mid-Size,None,3,5061071.01
+49,Male,Bachelor,27,HR Manager,HR,Hyderabad,4.0,Management,Startup,None,3,5386329.01
+37,Female,Bachelor,13,HR Manager,HR,Bangalore,3.0,Marketing,Mid-Size,None,2,3346192.97
+36,Female,Bachelor,12,Data Scientist,IT,Kolkata,2.0,Marketing,Startup,Basic,0,2942997.26
+24,Female,High School,4,Sales Rep,Sales,Remote,1.0,Management,Mid-Size,None,2,625544.87
+58,Female,Bachelor,39,Marketing Specialist,Marketing,Mumbai,4.0,Management,Mid-Size,Basic,4,9230697.82
+28,Male,Bachelor,9,HR Manager,HR,Bangalore,5.0,Python,Startup,Basic,3,2518107.64
+42,Female,PhD,22,Marketing Specialist,Marketing,Remote,3.0,Management,Mid-Size,None,5,5892573.18
+30,Female,Bachelor,7,HR Manager,HR,Kolkata,1.0,Marketing,Startup,None,3,1254239.25
+39,Female,Bachelor,20,Marketing Specialist,Marketing,Mumbai,5.0,,Mid-Size,None,1,4174187.3
+25,Male,Bachelor,4,Sales Rep,Sales,Bangalore,5.0,Python,Startup,Basic,5,1319824.28
+46,Female,Bachelor,28,Data Scientist,IT,Mumbai,2.0,Python,Mid-Size,Basic,2,9034260.12
+35,Female,Bachelor,11,Sales Rep,Sales,Mumbai,2.0,Python,Mid-Size,None,1,2078078.57
+30,Female,Master,6,Software Engineer,IT,Bangalore,1.0,Python,Startup,Basic,3,2490405.66
+47,Male,Bachelor,26,Data Scientist,IT,Bangalore,5.0,Communication,Enterprise,None,2,11646341.23
+23,Female,Bachelor,4,Sales Rep,Sales,Mumbai,2.0,Management,Enterprise,None,2,1318557.43
+41,Male,PhD,17,Software Engineer,IT,Remote,3.0,SQL,Mid-Size,Advanced,4,7252002.55
+49,Female,Master,27,HR Manager,HR,Chennai,3.0,,Mid-Size,Basic,4,8261201.61
+28,Male,Master,10,HR Manager,HR,Bangalore,5.0,Communication,Startup,None,0,2808988.84
+29,Female,Bachelor,11,Marketing Specialist,Marketing,Kolkata,2.0,Python,Mid-Size,Basic,4,2545564.37
+56,Other,Master,32,Data Scientist,IT,Delhi,,Communication,Startup,Advanced,5,12746525.97
+35,Male,Bachelor,15,HR Manager,HR,Hyderabad,1.0,Marketing,Startup,Basic,2,3248785.01
+38,Other,Bachelor,14,Data Scientist,IT,Mumbai,1.0,Marketing,Enterprise,Basic,4,6662742.28
+57,Male,High School,37,HR Manager,HR,Mumbai,3.0,Management,Mid-Size,Basic,0,6166916.16
+25,Female,Bachelor,1,Marketing Specialist,Marketing,Hyderabad,2.0,Management,Mid-Size,None,3,445209.12
+23,,Bachelor,1,Sales Rep,Sales,Chennai,2.0,SQL,Startup,Basic,5,388102.43
+27,Female,Bachelor,4,Marketing Specialist,Marketing,Hyderabad,3.0,SQL,Mid-Size,None,4,1367506.75
+25,Female,PhD,7,Software Engineer,IT,Bangalore,1.0,Marketing,Startup,Basic,2,3341221.54
+50,Female,PhD,26,HR Manager,HR,Hyderabad,1.0,Python,Startup,None,3,7518795.45
+39,Male,Master,17,Software Engineer,IT,Mumbai,5.0,Communication,Startup,Basic,2,5600378.42
+47,,Bachelor,27,Software Engineer,IT,Hyderabad,4.0,SQL,Mid-Size,None,3,7851901.24
+55,Female,Master,35,Data Scientist,IT,Delhi,2.0,SQL,Mid-Size,None,5,13153186.58
+31,Female,Bachelor,13,HR Manager,HR,Kolkata,2.0,Python,Startup,None,2,2076844.44
+57,Female,Master,36,Software Engineer,IT,Bangalore,2.0,Python,Mid-Size,Advanced,4,17978293.24
+35,Female,Bachelor,11,Sales Rep,Sales,Hyderabad,4.0,Management,Startup,Advanced,4,2812370.9
+52,Male,Master,33,Software Engineer,IT,Mumbai,5.0,Communication,Mid-Size,None,0,9975207.64
+36,Female,Bachelor,16,Sales Rep,Sales,Remote,,Python,Enterprise,Advanced,3,3930946.06
+29,Male,Master,6,Data Scientist,IT,Kolkata,1.0,SQL,Mid-Size,Basic,0,2159135.19
+35,Female,PhD,12,Software Engineer,IT,Bangalore,1.0,SQL,Enterprise,Basic,1,7600581.85
+44,Male,Bachelor,24,Marketing Specialist,Marketing,Mumbai,2.0,Marketing,Enterprise,None,4,6928805.19
+42,Male,Bachelor,21,Data Scientist,IT,Chennai,3.0,Python,Mid-Size,Advanced,3,8038529.7
+37,Male,PhD,16,Sales Rep,Sales,Delhi,2.0,Management,Mid-Size,None,5,4686214.39
+39,Male,Bachelor,17,Data Scientist,IT,Chennai,3.0,Communication,Enterprise,Basic,0,6551846.01
+45,Female,Master,22,Software Engineer,IT,Delhi,4.0,Management,Startup,Basic,5,7395178.43
+47,Male,Bachelor,25,HR Manager,HR,Hyderabad,1.0,SQL,Startup,Basic,5,5803036.56
+46,Male,Bachelor,23,HR Manager,HR,Bangalore,3.0,Management,Enterprise,Basic,5,9069414.53
+50,Male,Bachelor,26,Sales Rep,Sales,Hyderabad,4.0,SQL,Mid-Size,None,0,4509854.53
+36,Male,Bachelor,12,Sales Rep,Sales,Delhi,1.0,SQL,Startup,None,1,1684893.65
+22,Male,Master,3,HR Manager,HR,Delhi,3.0,SQL,Mid-Size,None,0,1045662.58
+46,Male,Bachelor,22,Sales Rep,Sales,Delhi,2.0,SQL,Mid-Size,None,2,3624103.42
+28,Female,Bachelor,9,Data Scientist,IT,Kolkata,2.0,SQL,Mid-Size,None,4,2783654.17
+30,Female,Bachelor,6,Marketing Specialist,Marketing,Mumbai,2.0,Marketing,Mid-Size,Basic,0,1392254.65
+45,Female,Bachelor,27,Marketing Specialist,Marketing,Bangalore,4.0,Management,Mid-Size,Basic,0,6160656.84
+22,Male,Master,0,Data Scientist,IT,Hyderabad,2.0,Marketing,Mid-Size,None,1,564813.61
+29,Male,PhD,7,Marketing Specialist,Marketing,Hyderabad,5.0,Marketing,Mid-Size,None,2,2823459.51
+45,Female,Bachelor,25,Software Engineer,IT,Chennai,1.0,Python,Mid-Size,None,0,5647088.31
+32,Female,Master,10,Data Scientist,IT,Delhi,4.0,Python,Mid-Size,None,4,4238760.93
+38,Male,Master,18,Sales Rep,Sales,Remote,2.0,Python,Mid-Size,None,4,3399719.0
+29,Male,Bachelor,8,Data Scientist,IT,Delhi,1.0,Communication,Startup,Basic,0,2084740.37
+56,Male,PhD,34,HR Manager,HR,Delhi,3.0,Python,Mid-Size,None,5,11136954.22
+56,Male,Bachelor,35,Sales Rep,Sales,Remote,2.0,Management,Enterprise,Basic,5,7517089.71
+54,Male,Bachelor,35,HR Manager,HR,Hyderabad,1.0,Marketing,Startup,None,2,6322943.17
+26,Female,Master,7,Sales Rep,Sales,Chennai,5.0,Management,Startup,Basic,4,1976714.95
+49,Female,Bachelor,31,Marketing Specialist,Marketing,Mumbai,3.0,Python,Mid-Size,Basic,5,7818641.82
+28,,Master,4,Data Scientist,IT,Remote,5.0,,Enterprise,Advanced,4,3123123.06
+30,Female,Master,8,Software Engineer,IT,Kolkata,1.0,Communication,Startup,Basic,2,2410734.62
+29,Female,High School,8,Sales Rep,Sales,Bangalore,5.0,Marketing,Startup,Advanced,2,1763453.44
+33,Female,Master,13,Sales Rep,Sales,Remote,1.0,Management,Startup,Basic,5,2424713.58
+55,Other,Bachelor,36,HR Manager,HR,Mumbai,1.0,SQL,Mid-Size,Basic,0,7412060.36
+54,Male,Bachelor,30,Marketing Specialist,Marketing,Hyderabad,5.0,Management,Startup,None,3,5700065.64
+44,Male,Master,25,HR Manager,HR,Kolkata,1.0,Python,Startup,None,1,4606210.42
+45,Male,PhD,25,HR Manager,HR,Kolkata,2.0,SQL,Mid-Size,None,3,7249184.97
+58,Female,High School,34,Marketing Specialist,Marketing,Kolkata,1.0,Communication,Enterprise,Basic,3,6966028.28
+56,Female,Bachelor,32,Software Engineer,IT,Delhi,4.0,Marketing,Mid-Size,None,4,8529158.43
+43,Male,Master,22,HR Manager,HR,Bangalore,1.0,Marketing,Startup,Basic,2,6079590.95
+48,Female,Master,27,HR Manager,HR,Hyderabad,4.0,Communication,Mid-Size,Advanced,4,10417758.07
+56,Male,Master,34,Sales Rep,Sales,Hyderabad,1.0,Python,Enterprise,None,5,11377985.95
+22,Female,Bachelor,0,Marketing Specialist,Marketing,Kolkata,1.0,Communication,Mid-Size,None,1,247198.78
+56,Male,Bachelor,33,Data Scientist,IT,Hyderabad,5.0,Python,Enterprise,Advanced,5,19015515.94
+58,Male,Bachelor,35,Software Engineer,IT,Bangalore,2.0,SQL,Enterprise,None,0,12065732.31
+35,Male,Master,17,Software Engineer,IT,Bangalore,2.0,Communication,Startup,Basic,1,5757832.15
+24,Male,Bachelor,5,Marketing Specialist,Marketing,Chennai,3.0,Python,Mid-Size,None,4,1427517.16
+22,Male,Bachelor,0,Sales Rep,Sales,Remote,5.0,SQL,Startup,Basic,4,375974.08
+26,Male,PhD,5,Sales Rep,Sales,Remote,5.0,Communication,Mid-Size,None,5,1691213.12
+47,Female,High School,27,Marketing Specialist,Marketing,Chennai,2.0,Marketing,Startup,Basic,4,4225162.67
+35,Female,PhD,14,Sales Rep,Sales,Mumbai,5.0,Communication,Startup,None,4,3885255.26
+48,Male,Master,29,Software Engineer,IT,Remote,2.0,Management,Enterprise,None,3,9667453.17
+30,Female,Master,7,Software Engineer,IT,Bangalore,5.0,Communication,Startup,None,0,2621477.97
+36,Female,Bachelor,15,Data Scientist,IT,Bangalore,1.0,Management,Enterprise,None,3,6822318.69
+36,Male,High School,18,Marketing Specialist,Marketing,Remote,2.0,SQL,Startup,Advanced,4,2616341.64
+47,Male,Master,28,HR Manager,HR,Bangalore,2.0,Communication,Startup,Basic,2,7844701.83
+34,Male,Master,11,HR Manager,HR,Chennai,4.0,SQL,Enterprise,None,3,4322141.75
+53,Male,Master,33,Data Scientist,IT,Kolkata,5.0,SQL,Mid-Size,None,4,11782703.67
+53,Female,Bachelor,30,Data Scientist,IT,Kolkata,5.0,Python,Mid-Size,None,4,8635538.24
+25,Male,Master,1,Sales Rep,Sales,Hyderabad,2.0,SQL,Startup,Basic,0,532095.87
+51,,Master,33,Data Scientist,IT,Kolkata,1.0,SQL,Mid-Size,Basic,5,12998882.44
+58,Female,Master,39,Data Scientist,IT,Delhi,1.0,Communication,Mid-Size,None,1,12271996.26
+44,Male,Master,24,HR Manager,HR,Chennai,1.0,Communication,Mid-Size,Basic,3,6901355.46
+36,Female,Master,18,Sales Rep,Sales,Bangalore,5.0,Marketing,Mid-Size,Basic,3,5710610.74
+50,Male,Master,27,Data Scientist,IT,Remote,4.0,Python,Enterprise,Advanced,3,13034767.31
+57,Other,High School,39,Data Scientist,IT,Kolkata,2.0,SQL,Mid-Size,Advanced,4,10743891.52
+34,Male,Bachelor,15,Sales Rep,Sales,Chennai,3.0,Python,Enterprise,Basic,0,3560402.56
+53,,High School,31,Marketing Specialist,Marketing,Kolkata,4.0,Management,Mid-Size,Basic,4,5265681.56
+28,Female,Bachelor,10,Sales Rep,Sales,Mumbai,3.0,SQL,Mid-Size,None,4,2202751.68
+43,Male,Bachelor,19,HR Manager,HR,Bangalore,4.0,Python,Startup,Basic,5,5001628.55
+49,Female,High School,31,Marketing Specialist,Marketing,Mumbai,1.0,Marketing,Startup,None,2,4081328.97
+23,Other,Bachelor,0,Software Engineer,IT,Bangalore,5.0,Marketing,Enterprise,None,0,939987.88
+27,Female,Bachelor,4,Sales Rep,Sales,Chennai,3.0,SQL,Startup,None,3,914444.98
+49,Female,Master,29,HR Manager,HR,Hyderabad,4.0,Management,Startup,Basic,1,7263352.6
+49,Female,PhD,26,Marketing Specialist,Marketing,Kolkata,5.0,Marketing,Startup,None,3,6285643.89
+41,Male,High School,20,Sales Rep,Sales,Kolkata,3.0,Marketing,Startup,None,4,2497924.59
+51,Male,PhD,32,Data Scientist,IT,Delhi,2.0,Management,Enterprise,None,0,15164026.55
+32,Female,Bachelor,13,Sales Rep,Sales,Remote,4.0,Python,Enterprise,None,0,2330493.81
+49,Male,Bachelor,27,Software Engineer,IT,Mumbai,2.0,Marketing,Mid-Size,None,0,6380568.9
+46,Female,High School,24,Sales Rep,Sales,Kolkata,1.0,Communication,Startup,Basic,2,2779039.43
+54,Female,Bachelor,35,Marketing Specialist,Marketing,Chennai,2.0,,Mid-Size,Basic,3,7593277.7
+22,Male,Master,0,Marketing Specialist,Marketing,Hyderabad,2.0,Python,Mid-Size,None,2,404928.75
+48,Male,Master,26,Sales Rep,Sales,Remote,4.0,Python,Enterprise,Basic,5,7198236.77
+34,Female,High School,14,Marketing Specialist,Marketing,Chennai,1.0,SQL,Mid-Size,Basic,1,2356975.05
+24,Male,High School,1,Data Scientist,IT,Mumbai,2.0,Communication,Startup,None,5,622630.52
+27,Female,Bachelor,8,Sales Rep,Sales,Delhi,5.0,Python,Mid-Size,Basic,4,1937527.03
+29,Male,Bachelor,7,Data Scientist,IT,Kolkata,3.0,Management,Enterprise,Advanced,2,3489926.67
+48,Female,Bachelor,29,Data Scientist,IT,Chennai,2.0,Communication,Mid-Size,None,2,8108152.92
+30,Male,Bachelor,9,HR Manager,HR,Remote,1.0,Communication,Mid-Size,None,5,1768524.93
+58,Female,Master,40,Sales Rep,Sales,Bangalore,2.0,Management,Startup,Advanced,4,11400345.61
+54,Male,PhD,31,Marketing Specialist,Marketing,Hyderabad,3.0,Marketing,Mid-Size,Basic,0,9692202.99
+45,Female,Bachelor,26,Data Scientist,IT,Remote,1.0,Management,Mid-Size,None,4,6145526.96
+36,Male,PhD,18,HR Manager,HR,Chennai,4.0,Management,Startup,None,3,5241836.2
+53,Female,Bachelor,31,Sales Rep,Sales,Hyderabad,1.0,Marketing,Mid-Size,None,5,6445066.18
+53,Female,Bachelor,35,Sales Rep,Sales,Kolkata,4.0,Marketing,Startup,Basic,4,5665241.77
+45,Male,Bachelor,22,Software Engineer,IT,Bangalore,1.0,Marketing,Startup,None,0,5044970.99
+33,Male,Master,14,Software Engineer,IT,Delhi,3.0,Marketing,Startup,None,4,4205406.0
+23,Male,PhD,2,Data Scientist,IT,Remote,3.0,Marketing,Startup,Basic,2,1161635.88
+24,Female,Master,0,Software Engineer,IT,Delhi,1.0,Management,Mid-Size,None,1,324675.32
+58,Female,Bachelor,36,Data Scientist,IT,Bangalore,2.0,SQL,Startup,None,2,9961874.34
+38,Female,Master,19,Marketing Specialist,Marketing,Hyderabad,3.0,SQL,Startup,None,1,4122744.65
+23,Male,Bachelor,0,Data Scientist,IT,Kolkata,4.0,Python,Enterprise,Basic,4,827038.7
+23,Male,Master,1,Software Engineer,IT,Chennai,4.0,SQL,Mid-Size,None,3,1137521.9
+49,Female,Bachelor,29,Marketing Specialist,Marketing,Bangalore,5.0,SQL,Mid-Size,Basic,4,8055220.62
+44,Male,Bachelor,26,Software Engineer,IT,Mumbai,4.0,Management,Mid-Size,None,0,6448285.86
+58,Other,Bachelor,34,Data Scientist,IT,Hyderabad,5.0,Marketing,Mid-Size,None,4,11510296.89
+53,Male,Master,30,HR Manager,HR,Delhi,1.0,Marketing,Startup,None,1,5705201.07
+54,Female,High School,34,Sales Rep,Sales,Remote,1.0,Management,Enterprise,None,2,4589459.09
+22,Male,Master,3,Software Engineer,IT,Bangalore,1.0,SQL,Startup,Basic,3,1453164.96
+40,Male,Bachelor,19,Data Scientist,IT,Delhi,2.0,Management,Mid-Size,None,4,5730625.0
+23,Female,Master,1,Marketing Specialist,Marketing,Hyderabad,2.0,Python,Startup,Basic,4,658640.67
+47,Female,Master,29,Software Engineer,IT,Delhi,5.0,Marketing,Mid-Size,None,2,8941809.2
+53,Other,Master,31,Software Engineer,IT,Bangalore,4.0,Communication,Mid-Size,Advanced,3,15165518.56
+27,Male,Bachelor,3,Sales Rep,Sales,Hyderabad,4.0,Python,Mid-Size,Basic,5,1177519.31
+53,Male,Bachelor,34,Data Scientist,IT,Mumbai,1.0,Python,Startup,Basic,4,10025401.82
+25,Female,Bachelor,3,HR Manager,HR,Bangalore,3.0,Management,Mid-Size,None,4,1288521.62
+32,Female,Master,14,Marketing Specialist,Marketing,Chennai,2.0,SQL,Enterprise,None,5,5196785.78
+38,Male,Bachelor,19,Data Scientist,IT,Kolkata,2.0,Marketing,Enterprise,None,1,6281079.03
+59,Male,Bachelor,37,Marketing Specialist,Marketing,Bangalore,1.0,Communication,Startup,Advanced,1,8230333.99
+45,Male,Bachelor,24,Software Engineer,IT,Hyderabad,2.0,Python,Startup,None,0,5036915.3
+26,Female,Bachelor,3,Sales Rep,Sales,Remote,1.0,Communication,Enterprise,Basic,2,871337.79
+55,Male,Master,36,Sales Rep,Sales,Kolkata,5.0,SQL,Mid-Size,Basic,3,8298967.45
+27,Male,High School,4,HR Manager,HR,Bangalore,4.0,SQL,Mid-Size,None,4,1262154.82
+43,Male,Master,24,Sales Rep,Sales,Mumbai,3.0,Communication,Enterprise,Basic,4,8537299.25
+32,Male,Bachelor,11,Software Engineer,IT,Remote,4.0,Marketing,Enterprise,Basic,0,3203929.75
+37,Male,High School,14,HR Manager,HR,Mumbai,4.0,SQL,Mid-Size,Basic,4,3081442.6
+54,Female,Bachelor,34,Data Scientist,IT,Chennai,5.0,Communication,Mid-Size,None,2,9801035.06
+30,Male,High School,12,Sales Rep,Sales,Remote,2.0,Python,Startup,None,0,1065546.34
+27,Female,Bachelor,7,HR Manager,HR,Delhi,3.0,,Mid-Size,None,2,1717196.99
+37,Male,Master,15,Software Engineer,IT,Remote,2.0,Communication,Startup,Basic,0,3288852.5
+50,Female,High School,29,Marketing Specialist,Marketing,Kolkata,4.0,Management,Startup,Basic,4,4187555.87
+24,Female,Master,4,Marketing Specialist,Marketing,Remote,1.0,SQL,Startup,None,0,696684.98
+41,Female,High School,22,Software Engineer,IT,Hyderabad,4.0,Marketing,Startup,Advanced,1,5052853.26
+57,Female,Bachelor,35,Software Engineer,IT,Hyderabad,2.0,Marketing,Mid-Size,None,3,9908519.79
+40,Male,Master,18,Marketing Specialist,Marketing,Delhi,4.0,Management,Mid-Size,Basic,4,5194237.83
+47,Male,Bachelor,27,HR Manager,HR,Remote,1.0,Marketing,Mid-Size,Advanced,5,5935645.63
+24,Female,Bachelor,4,Marketing Specialist,Marketing,Mumbai,5.0,Communication,Startup,Basic,3,1292009.13
+40,Other,Bachelor,19,Software Engineer,IT,Mumbai,2.0,Management,Enterprise,Basic,4,7931672.53
+41,Female,Bachelor,23,Sales Rep,Sales,Bangalore,4.0,Python,Startup,None,3,4305524.0
+53,Female,Master,33,Data Scientist,IT,Chennai,2.0,SQL,Mid-Size,None,1,10885099.41
+28,Female,Bachelor,4,Sales Rep,Sales,Kolkata,,SQL,Enterprise,Basic,3,1540220.6
+54,Male,Master,34,Sales Rep,Sales,Chennai,4.0,SQL,Mid-Size,None,0,6595707.16
+39,Male,Master,16,Software Engineer,IT,Remote,4.0,Communication,Mid-Size,None,3,4403445.94
+22,Female,Bachelor,3,Marketing Specialist,Marketing,Chennai,2.0,Python,Enterprise,Basic,4,1346328.13
+32,Other,PhD,8,HR Manager,HR,Bangalore,2.0,Management,Startup,None,5,3133286.03
+49,Male,Bachelor,25,Sales Rep,Sales,Chennai,1.0,Management,Mid-Size,Advanced,5,6077757.18
+46,,PhD,23,Marketing Specialist,Marketing,Delhi,5.0,SQL,Mid-Size,Basic,2,7238285.62
+44,Male,High School,21,HR Manager,HR,Bangalore,1.0,Python,Startup,Basic,3,3875914.23
+52,Female,Master,30,Sales Rep,Sales,Delhi,4.0,Python,Enterprise,Basic,5,10101478.12
+51,Male,Bachelor,33,HR Manager,HR,Remote,2.0,Python,Enterprise,Basic,3,7640750.56
+56,Male,Bachelor,37,Marketing Specialist,Marketing,Bangalore,4.0,Marketing,Mid-Size,Basic,5,10434076.12
+28,Female,Master,7,Data Scientist,IT,Remote,4.0,Marketing,Startup,Basic,3,2418078.82
+37,Male,Master,13,Marketing Specialist,Marketing,Remote,3.0,SQL,Startup,None,4,2435937.94
+47,Female,High School,26,Software Engineer,IT,Chennai,3.0,Python,Mid-Size,Basic,3,6186085.56
+23,Female,Bachelor,3,HR Manager,HR,Delhi,4.0,Python,Startup,Basic,4,948074.99
+22,Female,Master,2,Data Scientist,IT,Remote,2.0,Management,Mid-Size,None,4,1114423.37
+33,Male,Master,12,HR Manager,HR,Delhi,4.0,Management,Mid-Size,None,2,3279986.95
+26,Male,PhD,6,HR Manager,HR,Delhi,3.0,SQL,Mid-Size,Basic,5,2661321.64
+58,Male,Master,40,Sales Rep,Sales,Bangalore,2.0,Python,Mid-Size,None,0,9063919.96
+53,,PhD,30,Software Engineer,IT,Hyderabad,4.0,SQL,Mid-Size,Advanced,4,17028557.37
+30,Female,Master,10,HR Manager,HR,Chennai,5.0,Management,Startup,Advanced,5,3687697.29
+56,Female,Bachelor,34,Marketing Specialist,Marketing,Remote,5.0,Management,Startup,None,1,4204263.71
+40,Female,Bachelor,20,Marketing Specialist,Marketing,Delhi,4.0,Marketing,Mid-Size,Basic,3,4447170.81
+37,Female,Master,18,Sales Rep,Sales,Kolkata,2.0,SQL,Mid-Size,None,1,3500708.78
+24,Female,Master,6,Software Engineer,IT,Hyderabad,4.0,SQL,Mid-Size,Basic,3,3130671.47
+41,Male,High School,22,Software Engineer,IT,Remote,4.0,Python,Mid-Size,None,2,3596392.67
+45,Female,Bachelor,26,Marketing Specialist,Marketing,Kolkata,3.0,Python,Enterprise,Basic,4,7215765.28
+54,Male,PhD,32,Data Scientist,IT,Chennai,5.0,Marketing,Startup,None,0,10697129.99
+45,Female,Bachelor,27,Sales Rep,Sales,Chennai,3.0,Communication,Startup,None,4,4347845.56
+32,Female,Bachelor,14,Sales Rep,Sales,Delhi,3.0,Communication,Startup,None,3,2183344.17
+29,Female,Bachelor,11,Marketing Specialist,Marketing,Delhi,4.0,Communication,Mid-Size,None,0,2100578.24
+57,Male,Bachelor,39,Marketing Specialist,Marketing,Remote,3.0,SQL,Mid-Size,None,4,6408277.04
+59,Male,Bachelor,41,Data Scientist,IT,Bangalore,5.0,SQL,Enterprise,None,0,16078598.63
+41,Male,Bachelor,19,Data Scientist,IT,Hyderabad,3.0,Management,Mid-Size,None,3,6399704.37
+56,Male,High School,36,Software Engineer,IT,Remote,5.0,SQL,Enterprise,Basic,2,8180078.18
+46,Male,Master,27,Sales Rep,Sales,Hyderabad,3.0,SQL,Enterprise,Basic,2,9043695.99
+56,Female,Bachelor,38,Sales Rep,Sales,Delhi,5.0,SQL,Startup,Basic,4,6563146.97
+46,Female,Master,22,Marketing Specialist,Marketing,Chennai,3.0,Marketing,Mid-Size,Advanced,1,6479579.33
+50,Male,Master,30,Software Engineer,IT,Delhi,3.0,SQL,Mid-Size,None,3,9515875.67
+39,Male,Bachelor,19,Sales Rep,Sales,Chennai,2.0,Python,Startup,None,4,3120616.39
+39,Male,Master,20,Software Engineer,IT,Remote,5.0,Python,Mid-Size,None,4,5807864.99
+23,Female,Bachelor,1,Software Engineer,IT,Chennai,5.0,Management,Mid-Size,Basic,2,977046.75
+56,Female,Master,35,Marketing Specialist,Marketing,Delhi,5.0,Marketing,Startup,Advanced,0,7882393.12
+37,Female,Bachelor,16,Software Engineer,IT,Mumbai,1.0,Python,Mid-Size,None,3,4432071.59
+57,Male,Master,37,Data Scientist,IT,Hyderabad,3.0,Marketing,Mid-Size,None,0,12846071.18
+54,Other,Master,31,Data Scientist,IT,Kolkata,5.0,Marketing,Startup,None,5,9847497.91
+25,Female,Bachelor,2,HR Manager,HR,Chennai,1.0,Management,Mid-Size,Basic,5,824212.12
+54,Male,Bachelor,35,Marketing Specialist,Marketing,Chennai,2.0,Marketing,Startup,Basic,3,6375152.44
+35,Female,Master,14,HR Manager,HR,Mumbai,5.0,SQL,Mid-Size,None,1,3969008.98
+42,Male,Master,22,Data Scientist,IT,Remote,5.0,Marketing,Startup,None,5,6079623.93
+41,Female,Bachelor,19,HR Manager,HR,Remote,1.0,Management,Enterprise,Basic,2,4304089.23
+29,Male,Master,8,Marketing Specialist,Marketing,Remote,3.0,Management,Mid-Size,Basic,1,1766331.8
+28,Female,Bachelor,8,Marketing Specialist,Marketing,Kolkata,,Management,Startup,None,4,1506954.34
+24,Female,Master,4,Software Engineer,IT,Bangalore,5.0,Python,Mid-Size,Basic,5,2903854.12
+38,Female,Bachelor,20,Sales Rep,Sales,Mumbai,3.0,SQL,Mid-Size,None,2,3664060.63
+54,Female,Master,32,Software Engineer,IT,Kolkata,2.0,Python,Mid-Size,Basic,4,11008126.65
+33,Male,Bachelor,15,Marketing Specialist,Marketing,Mumbai,4.0,Communication,Mid-Size,Basic,1,3378586.68
+43,Male,Bachelor,24,Data Scientist,IT,Chennai,4.0,SQL,Mid-Size,None,3,7161865.31
+43,Male,High School,25,Data Scientist,IT,Hyderabad,2.0,Marketing,Startup,None,4,5737681.75
+51,Male,Bachelor,27,Software Engineer,IT,Mumbai,1.0,Management,Startup,Basic,0,5872295.06
+59,Female,Bachelor,41,Marketing Specialist,Marketing,Bangalore,2.0,Communication,Mid-Size,None,3,9395949.52
+59,Male,Bachelor,35,Data Scientist,IT,Delhi,2.0,SQL,Mid-Size,Basic,3,10688682.67
+29,Other,Master,8,Marketing Specialist,Marketing,Kolkata,1.0,Python,Startup,Basic,1,1642567.65
+48,Female,High School,25,Data Scientist,IT,Mumbai,1.0,Management,Enterprise,Basic,1,7946476.82
+48,Female,Bachelor,28,Marketing Specialist,Marketing,Mumbai,3.0,Python,Startup,None,2,4726285.91
+55,Male,Bachelor,31,HR Manager,HR,Bangalore,3.0,SQL,Mid-Size,None,2,7358869.16
+42,Female,High School,20,Marketing Specialist,Marketing,Hyderabad,1.0,SQL,Startup,Basic,0,2780962.74
+51,Female,Bachelor,33,Marketing Specialist,Marketing,Mumbai,4.0,Communication,Startup,None,3,5907562.32
+54,Male,Bachelor,30,Software Engineer,IT,Mumbai,,Marketing,Enterprise,Basic,0,10461350.39
+49,Female,Bachelor,27,HR Manager,HR,Hyderabad,2.0,Python,Startup,Basic,0,5064743.64
+54,Female,Bachelor,31,Sales Rep,Sales,Bangalore,5.0,,Mid-Size,None,1,6080533.22
+26,Male,Bachelor,3,Software Engineer,IT,Kolkata,2.0,Management,Startup,Basic,0,809594.38
+40,Female,Bachelor,22,Sales Rep,Sales,Kolkata,,Marketing,Mid-Size,None,0,3176333.86
+25,Male,High School,6,Data Scientist,IT,Mumbai,5.0,Communication,Enterprise,None,4,2690846.04
+56,Male,Bachelor,38,Sales Rep,Sales,Hyderabad,1.0,Python,Startup,Advanced,2,7336657.74
+38,Male,PhD,17,Marketing Specialist,Marketing,Mumbai,4.0,SQL,Enterprise,Advanced,2,8778448.24
+49,Male,Bachelor,25,Sales Rep,Sales,Remote,2.0,Management,Mid-Size,None,3,3559363.05
+51,Male,Master,31,Software Engineer,IT,Delhi,5.0,Python,Mid-Size,Advanced,2,11936231.14
+50,Male,Bachelor,31,Software Engineer,IT,Kolkata,3.0,Marketing,Mid-Size,None,5,8231519.58
+27,Other,Master,9,Sales Rep,Sales,Remote,2.0,Marketing,Enterprise,None,3,2352653.07
+56,Female,Master,34,Software Engineer,IT,Chennai,4.0,SQL,Startup,None,4,10017137.47
+58,Other,Bachelor,39,Software Engineer,IT,Delhi,1.0,SQL,Startup,Advanced,2,9716339.41
+45,Male,PhD,21,Sales Rep,Sales,Mumbai,2.0,Management,Enterprise,None,4,8078639.78
+50,Male,Bachelor,31,HR Manager,HR,Bangalore,2.0,Management,Mid-Size,None,2,7323620.46
+52,,High School,28,HR Manager,HR,Kolkata,5.0,SQL,Startup,None,2,3601366.51
+56,Male,Master,38,Data Scientist,IT,Chennai,3.0,SQL,Mid-Size,Basic,4,15997418.23
+54,Male,Master,30,Software Engineer,IT,Delhi,3.0,Marketing,Mid-Size,None,0,8270041.16
+42,Female,Bachelor,23,Sales Rep,Sales,Kolkata,1.0,SQL,Mid-Size,None,0,3278024.86
+53,Male,Bachelor,31,Software Engineer,IT,Hyderabad,4.0,Communication,Startup,None,0,6670351.31
+44,Female,High School,21,Marketing Specialist,Marketing,Bangalore,1.0,Python,Mid-Size,Basic,5,4680031.15
+54,Female,Bachelor,35,Software Engineer,IT,Delhi,2.0,SQL,Startup,Basic,0,7019830.69
+24,Male,Master,0,Software Engineer,IT,Hyderabad,2.0,Management,Mid-Size,None,2,484273.9
+39,Male,Bachelor,16,HR Manager,HR,Remote,3.0,Communication,Enterprise,Basic,1,3701019.85
+46,Female,Bachelor,22,Sales Rep,Sales,Mumbai,4.0,Management,Mid-Size,None,4,4420313.92
+52,Male,Bachelor,30,Software Engineer,IT,Hyderabad,5.0,Communication,Startup,Basic,1,7475465.45
+24,Male,High School,0,HR Manager,HR,Delhi,4.0,SQL,Startup,None,5,354125.86
+45,Other,Bachelor,27,Data Scientist,IT,Delhi,2.0,Python,Mid-Size,None,1,6940497.54
+53,Male,Master,33,HR Manager,HR,Remote,5.0,Management,Mid-Size,None,3,6902572.79
+43,Female,PhD,24,HR Manager,HR,Mumbai,,Communication,Startup,Basic,0,6624522.25
+44,Other,Master,24,HR Manager,HR,Hyderabad,4.0,Marketing,Mid-Size,Basic,5,8370046.54
+23,Male,High School,0,Software Engineer,IT,Hyderabad,5.0,SQL,Startup,None,2,419155.92
+48,Male,Master,26,Software Engineer,IT,Mumbai,2.0,Python,Startup,Basic,0,7334546.91
+23,Male,Master,4,Data Scientist,IT,Hyderabad,4.0,SQL,Startup,None,0,1739436.34
+47,Male,Master,23,Marketing Specialist,Marketing,Kolkata,5.0,Marketing,Startup,None,1,4189393.87
+38,Male,Bachelor,15,Marketing Specialist,Marketing,Mumbai,2.0,Python,Startup,None,3,2735475.29
+54,Female,Bachelor,33,Marketing Specialist,Marketing,Bangalore,5.0,Marketing,Mid-Size,Basic,0,7565505.2
+30,Male,Bachelor,6,Data Scientist,IT,Delhi,,SQL,Enterprise,Basic,4,3452433.73
+50,Female,High School,30,Marketing Specialist,Marketing,Bangalore,4.0,Communication,Mid-Size,None,4,5956605.97
+47,Other,Bachelor,28,Marketing Specialist,Marketing,Kolkata,2.0,SQL,Startup,None,0,3738583.55
+56,Female,Bachelor,36,HR Manager,HR,Remote,4.0,SQL,Startup,None,1,4548577.7
+46,Female,Bachelor,27,Software Engineer,IT,Kolkata,1.0,SQL,Startup,None,1,4996885.81
+45,Male,Master,21,Software Engineer,IT,Chennai,1.0,Management,Startup,None,2,5670155.24
+34,Female,Bachelor,16,HR Manager,HR,Chennai,2.0,Marketing,Mid-Size,None,5,3873819.0
+28,Female,High School,5,HR Manager,HR,Chennai,,Marketing,Mid-Size,None,5,1266970.63
+57,Male,PhD,33,HR Manager,HR,Mumbai,4.0,Marketing,Startup,None,5,10204526.15
+41,Male,PhD,21,Software Engineer,IT,Hyderabad,4.0,Management,Startup,None,3,8015724.08
+22,,Master,1,Marketing Specialist,Marketing,Kolkata,2.0,Communication,Startup,None,1,446462.97
+29,Male,PhD,8,HR Manager,HR,Bangalore,2.0,SQL,Startup,None,2,2790073.35
+37,,Bachelor,15,Data Scientist,IT,Remote,1.0,Communication,Mid-Size,Basic,4,4047792.3
+35,Male,PhD,16,HR Manager,HR,Bangalore,3.0,Management,Startup,None,5,5701028.6
+33,Male,High School,13,Sales Rep,Sales,Bangalore,2.0,Marketing,Mid-Size,Basic,4,2701115.08
+44,Female,Bachelor,22,HR Manager,HR,Bangalore,3.0,SQL,Mid-Size,None,4,5849428.54
+36,Female,Bachelor,16,Software Engineer,IT,Remote,2.0,Python,Enterprise,None,0,3857611.16
+49,Female,Bachelor,30,HR Manager,HR,Chennai,5.0,Python,Enterprise,None,3,8455451.57
+55,Male,Bachelor,31,Sales Rep,Sales,Bangalore,5.0,Communication,Mid-Size,None,2,6415709.67
+23,Male,Master,0,Data Scientist,IT,Remote,1.0,Marketing,Startup,None,3,232312.18
+53,Male,Master,32,Marketing Specialist,Marketing,Remote,1.0,Python,Mid-Size,Advanced,0,6680813.15
+44,Male,Bachelor,20,HR Manager,HR,Hyderabad,3.0,,Mid-Size,None,2,4423621.87
+43,Male,Bachelor,19,Sales Rep,Sales,Remote,2.0,Management,Startup,None,2,2211167.84
+46,Female,Master,28,Sales Rep,Sales,Chennai,4.0,Communication,Mid-Size,Basic,1,6402621.48
+43,Male,Master,22,Data Scientist,IT,Bangalore,1.0,Communication,Enterprise,None,3,12386376.7
+43,Female,Bachelor,21,Software Engineer,IT,Remote,4.0,Communication,Mid-Size,Basic,3,4927284.74
+27,Male,Master,4,HR Manager,HR,Mumbai,4.0,SQL,Startup,None,1,1250738.17
+36,Male,Bachelor,18,Sales Rep,Sales,Remote,2.0,Communication,Startup,Advanced,4,2716553.39
+58,Male,Bachelor,36,Data Scientist,IT,Delhi,3.0,Communication,Mid-Size,None,0,8805875.19
+54,Other,PhD,35,Marketing Specialist,Marketing,Delhi,,SQL,Startup,None,3,8422851.88
+29,Female,Bachelor,11,Sales Rep,Sales,Delhi,1.0,SQL,Mid-Size,Basic,1,2002223.32
+26,Other,Bachelor,4,Data Scientist,IT,Remote,4.0,Management,Mid-Size,None,2,1242028.46
+25,Male,Master,6,Software Engineer,IT,Chennai,2.0,Marketing,Startup,None,5,2215459.75
+27,Male,Master,6,Software Engineer,IT,Bangalore,2.0,Python,Enterprise,Basic,1,3724948.03
+53,Female,High School,30,Sales Rep,Sales,Kolkata,2.0,Python,Mid-Size,None,5,4230129.36
+51,Male,Bachelor,32,Sales Rep,Sales,Kolkata,1.0,Communication,Startup,None,4,4584254.45
+56,Female,High School,32,HR Manager,HR,Kolkata,3.0,Management,Mid-Size,Basic,0,4668868.95
+37,Male,Master,17,Data Scientist,IT,Chennai,2.0,Communication,Mid-Size,None,5,7039907.19
+34,Male,Bachelor,15,Sales Rep,Sales,Hyderabad,1.0,Python,Mid-Size,Basic,4,3359557.97
+51,Male,Bachelor,32,HR Manager,HR,Mumbai,4.0,SQL,Enterprise,Advanced,5,12592531.09
+40,Male,PhD,17,HR Manager,HR,Mumbai,5.0,Marketing,Mid-Size,None,2,5848992.03
+38,Female,Bachelor,18,Sales Rep,Sales,Delhi,1.0,Management,Enterprise,None,2,3816480.68
+40,Male,Bachelor,16,Software Engineer,IT,Delhi,5.0,SQL,Mid-Size,None,2,4194906.89
+49,Male,Bachelor,27,Data Scientist,IT,Remote,2.0,Marketing,Mid-Size,None,2,5962854.31
+47,Male,Master,25,Data Scientist,IT,Kolkata,2.0,Management,Enterprise,Advanced,1,12587130.75
+58,Male,High School,39,Software Engineer,IT,Remote,1.0,Management,Mid-Size,None,2,6063476.36
+47,Female,Bachelor,27,Sales Rep,Sales,Kolkata,5.0,Python,Startup,None,2,3706763.11
+44,Female,Master,24,Data Scientist,IT,Delhi,2.0,SQL,Mid-Size,Basic,1,8491761.32
+30,Other,Bachelor,6,Sales Rep,Sales,Bangalore,4.0,Management,Mid-Size,Basic,2,1747517.01
+33,Female,Bachelor,10,Sales Rep,Sales,Hyderabad,3.0,,Startup,None,4,2039994.12
+22,Male,Bachelor,1,HR Manager,HR,Remote,3.0,Marketing,Enterprise,None,4,550662.58
+22,Female,High School,0,Software Engineer,IT,Hyderabad,2.0,Python,Startup,Basic,3,288285.84
+55,Male,Bachelor,32,Sales Rep,Sales,Hyderabad,5.0,Communication,Startup,Advanced,4,7074923.22
+53,Male,Bachelor,35,Marketing Specialist,Marketing,Hyderabad,,Python,Enterprise,Basic,0,9347367.46
+46,Female,Bachelor,24,Software Engineer,IT,Delhi,5.0,Communication,Mid-Size,None,0,5472749.01
+22,Male,High School,0,Data Scientist,IT,Mumbai,4.0,SQL,Startup,None,0,410845.69
+37,Female,Master,15,HR Manager,HR,Delhi,5.0,SQL,Mid-Size,None,1,3874814.76
+26,Male,PhD,5,Data Scientist,IT,Hyderabad,2.0,Management,Mid-Size,None,4,3145083.18
+43,Female,Master,25,Data Scientist,IT,Delhi,4.0,SQL,Startup,Advanced,0,8376480.87
+50,Female,Master,29,Software Engineer,IT,Hyderabad,1.0,Management,Enterprise,Basic,3,14643660.19
+24,Female,Bachelor,0,Data Scientist,IT,Chennai,3.0,Python,Mid-Size,Advanced,1,620411.76
+33,Female,PhD,15,Sales Rep,Sales,Kolkata,2.0,SQL,Mid-Size,None,3,3906032.43
+47,Female,Bachelor,28,Data Scientist,IT,Mumbai,2.0,Python,Mid-Size,Basic,4,9969656.98
+37,Male,PhD,14,HR Manager,HR,Chennai,2.0,Python,Mid-Size,Basic,2,4860390.4
+58,Female,PhD,40,HR Manager,HR,Bangalore,4.0,SQL,Startup,Basic,3,13763869.66
+43,Male,Master,19,Marketing Specialist,Marketing,Delhi,1.0,Python,Startup,None,2,3743684.4
+50,Female,PhD,26,HR Manager,HR,Bangalore,5.0,SQL,Mid-Size,None,1,9078599.77
+35,Female,Bachelor,14,Data Scientist,IT,Remote,1.0,SQL,Enterprise,Basic,3,4700632.13
+49,Female,Bachelor,27,HR Manager,HR,Delhi,4.0,SQL,Startup,None,3,4628639.71
+26,Male,Bachelor,8,Software Engineer,IT,Kolkata,2.0,Communication,Mid-Size,Advanced,5,2954520.2
+51,Male,Bachelor,28,HR Manager,HR,Chennai,3.0,Python,Enterprise,None,1,7062225.48
+26,Female,High School,8,Sales Rep,Sales,Kolkata,2.0,Marketing,Startup,Basic,1,990537.63
+33,Male,Master,13,Software Engineer,IT,Remote,5.0,SQL,Startup,Basic,0,3159399.47
+37,Male,PhD,15,Marketing Specialist,Marketing,Hyderabad,3.0,Python,Startup,Basic,4,5162128.74
+47,Male,Bachelor,24,Sales Rep,Sales,Kolkata,2.0,Management,Mid-Size,None,3,4047985.95
+47,Other,Master,24,Data Scientist,IT,Kolkata,3.0,SQL,Startup,Advanced,3,8758588.14
+42,Female,PhD,23,Data Scientist,IT,Hyderabad,1.0,SQL,Mid-Size,Basic,1,11125534.7
+57,Male,PhD,36,Data Scientist,IT,Delhi,4.0,Marketing,Mid-Size,None,1,13962067.63
+54,Male,PhD,35,Sales Rep,Sales,Hyderabad,,Communication,Mid-Size,Basic,4,11581044.12
+51,Male,Bachelor,28,Sales Rep,Sales,Chennai,5.0,Communication,Startup,None,1,3989756.95
+58,Female,PhD,36,Sales Rep,Sales,Kolkata,1.0,SQL,Mid-Size,None,2,8133542.66
+44,Female,Master,26,Software Engineer,IT,Hyderabad,2.0,Python,Mid-Size,None,2,8947880.2
+31,Male,Bachelor,13,Software Engineer,IT,Remote,1.0,Management,Enterprise,Basic,5,4381222.44
+26,Male,Bachelor,4,Data Scientist,IT,Remote,5.0,Management,Enterprise,None,2,1725519.1
+57,Male,Master,34,HR Manager,HR,Kolkata,2.0,Python,Mid-Size,Basic,2,8495983.82
+55,Female,Bachelor,31,Data Scientist,IT,Chennai,5.0,SQL,Mid-Size,None,4,9806182.36
+52,Female,Master,34,Marketing Specialist,Marketing,Bangalore,3.0,Management,Startup,None,3,8444120.37
+31,Male,Master,7,Software Engineer,IT,Chennai,5.0,Communication,Startup,Advanced,2,3104796.79
+40,Male,Bachelor,22,Sales Rep,Sales,Mumbai,3.0,Python,Startup,Basic,5,4284635.85
+53,Male,Bachelor,35,Software Engineer,IT,Mumbai,2.0,Marketing,Mid-Size,Advanced,1,10801867.07
+22,Other,Master,1,Sales Rep,Sales,Mumbai,3.0,SQL,Startup,None,2,598970.6
+26,Male,Bachelor,5,Marketing Specialist,Marketing,Kolkata,2.0,Python,Startup,None,5,1013156.06
+25,Female,High School,5,Marketing Specialist,Marketing,Remote,2.0,Management,Enterprise,Basic,4,1137498.8
+37,,High School,18,Software Engineer,IT,Delhi,4.0,SQL,Startup,Basic,1,3248993.96
+45,Male,Bachelor,23,Sales Rep,Sales,Remote,2.0,Communication,Startup,None,5,2950276.49
+37,Male,PhD,15,Marketing Specialist,Marketing,Delhi,3.0,SQL,Startup,None,2,3744963.57
+23,Male,Bachelor,1,Data Scientist,IT,Delhi,,SQL,Mid-Size,Basic,3,948403.27
+49,Female,Master,29,Data Scientist,IT,Remote,4.0,Communication,Mid-Size,None,1,7797055.65
+53,,Bachelor,32,Sales Rep,Sales,Kolkata,2.0,Communication,Startup,Basic,1,4338137.95
+48,Female,Bachelor,25,Software Engineer,IT,Chennai,5.0,SQL,Mid-Size,None,3,6804341.35
+41,Female,Master,17,Marketing Specialist,Marketing,Delhi,5.0,Communication,Mid-Size,None,1,4048688.33
+45,Male,Master,21,Software Engineer,IT,Bangalore,4.0,Python,Enterprise,Advanced,2,13270261.37
+33,Other,High School,10,Data Scientist,IT,Remote,2.0,Communication,Enterprise,None,1,2426785.11
+56,Female,Bachelor,36,Marketing Specialist,Marketing,Remote,5.0,Communication,Enterprise,None,2,7061900.47
+54,Male,High School,31,Software Engineer,IT,Mumbai,2.0,SQL,Mid-Size,Basic,3,7363723.43
+54,Other,Bachelor,32,HR Manager,HR,Chennai,2.0,Python,Startup,None,0,4903982.7
+58,Female,Master,39,Sales Rep,Sales,Mumbai,4.0,Marketing,Startup,None,3,7725013.29
+33,Female,Bachelor,15,Sales Rep,Sales,Remote,4.0,Marketing,Startup,Basic,2,1927801.91
+24,Female,Bachelor,0,HR Manager,HR,Remote,1.0,Management,Mid-Size,None,4,155331.5
+22,Female,Bachelor,1,Data Scientist,IT,Delhi,5.0,Communication,Enterprise,None,3,1229387.2
+54,Female,PhD,33,Marketing Specialist,Marketing,Chennai,5.0,Communication,Mid-Size,None,4,10507904.57
+31,Male,PhD,11,Sales Rep,Sales,Hyderabad,5.0,Python,Startup,None,4,3329814.43
+50,Male,High School,29,HR Manager,HR,Bangalore,3.0,Marketing,Mid-Size,Basic,2,6046076.61
+34,Female,Master,12,HR Manager,HR,Delhi,2.0,Management,Enterprise,Basic,2,4459187.41
+33,Male,Bachelor,9,Data Scientist,IT,Remote,4.0,Python,Mid-Size,None,0,2148235.35
+52,Male,Bachelor,29,Data Scientist,IT,Delhi,5.0,Communication,Enterprise,Basic,5,13057059.34
+23,Male,Master,1,Software Engineer,IT,Bangalore,1.0,Marketing,Enterprise,Advanced,1,1291881.15
+56,Male,PhD,36,Sales Rep,Sales,Remote,5.0,Management,Enterprise,None,3,9978069.53
+44,Female,PhD,22,Software Engineer,IT,Bangalore,2.0,SQL,Mid-Size,Basic,2,10800294.45
+38,Female,Bachelor,15,HR Manager,HR,Hyderabad,2.0,Marketing,Mid-Size,None,3,3592148.62
+47,Male,Bachelor,28,Marketing Specialist,Marketing,Delhi,,Management,Startup,Basic,5,5601627.09
+29,Male,Master,9,Marketing Specialist,Marketing,Kolkata,3.0,Python,Startup,Advanced,5,2785284.13
+50,Male,Bachelor,31,Data Scientist,IT,Delhi,4.0,SQL,Mid-Size,None,4,9258545.44
+47,Female,Bachelor,29,Marketing Specialist,Marketing,Mumbai,5.0,Management,Startup,None,1,4821223.07
+31,Female,Bachelor,12,Marketing Specialist,Marketing,Chennai,1.0,Management,Enterprise,None,0,2861565.99
+47,Male,Master,29,Marketing Specialist,Marketing,Chennai,4.0,Communication,Startup,None,3,6314411.33
+55,Female,Bachelor,37,HR Manager,HR,Mumbai,3.0,Marketing,Enterprise,None,1,9588091.6
+28,Female,Bachelor,9,Marketing Specialist,Marketing,Remote,4.0,Communication,Startup,Basic,0,1370452.71
+25,Female,PhD,5,Marketing Specialist,Marketing,Chennai,2.0,SQL,Startup,None,3,1589387.97
+32,Female,Bachelor,9,Marketing Specialist,Marketing,Bangalore,5.0,Management,Enterprise,None,1,2996732.61
+50,Male,Bachelor,28,Software Engineer,IT,Chennai,5.0,Communication,Startup,Basic,2,6792238.04
+57,Female,Bachelor,35,HR Manager,HR,Chennai,5.0,Marketing,Startup,None,3,6317450.55
+46,Male,High School,23,Data Scientist,IT,Mumbai,5.0,SQL,Startup,Advanced,1,5738993.93
+42,Female,High School,18,Software Engineer,IT,Remote,,Python,Mid-Size,Basic,5,3907941.72
+57,Female,Bachelor,33,Sales Rep,Sales,Hyderabad,5.0,Communication,Startup,None,0,4879296.62
+31,Female,Master,13,HR Manager,HR,Chennai,1.0,SQL,Mid-Size,None,1,3160481.3
+58,Female,Bachelor,40,HR Manager,HR,Kolkata,3.0,Python,Mid-Size,None,2,7222256.06
+30,Male,PhD,10,Sales Rep,Sales,Chennai,5.0,Communication,Mid-Size,Basic,3,3505953.77
+45,Female,Bachelor,24,Sales Rep,Sales,Hyderabad,3.0,SQL,Mid-Size,None,3,4733280.89
+56,Other,Bachelor,37,Sales Rep,Sales,Mumbai,5.0,SQL,Mid-Size,Basic,3,7693155.91
+56,Female,Bachelor,38,Data Scientist,IT,Hyderabad,4.0,Communication,Startup,Basic,2,10827064.5
+57,Male,Bachelor,35,Marketing Specialist,Marketing,Mumbai,5.0,SQL,Enterprise,None,0,8421226.6
+39,Male,Master,19,HR Manager,HR,Bangalore,2.0,Management,Startup,Basic,3,5622701.29
+53,Male,Bachelor,34,Marketing Specialist,Marketing,Mumbai,1.0,Communication,Mid-Size,None,0,6024974.4
+45,Female,Bachelor,25,Marketing Specialist,Marketing,Bangalore,4.0,SQL,Mid-Size,Advanced,1,6900737.15
+44,Female,Master,25,Sales Rep,Sales,Bangalore,4.0,Python,Enterprise,None,5,9535648.03
+53,Male,PhD,34,Data Scientist,IT,Mumbai,2.0,Python,Mid-Size,Basic,5,18436217.87
+58,Female,Master,35,Software Engineer,IT,Kolkata,5.0,Management,Startup,None,0,7879697.86
+33,Female,Bachelor,15,Data Scientist,IT,Delhi,1.0,Communication,Mid-Size,Basic,0,4134262.68
+34,Female,Master,14,Marketing Specialist,Marketing,Mumbai,4.0,SQL,Mid-Size,None,5,4316339.65
+44,Female,Bachelor,24,Data Scientist,IT,Chennai,1.0,SQL,Startup,None,3,6035216.49
+46,Female,Bachelor,23,Sales Rep,Sales,Kolkata,4.0,Python,Mid-Size,None,4,4103271.9
+56,Female,Bachelor,34,Software Engineer,IT,Kolkata,5.0,Management,Mid-Size,None,4,8784442.84
+51,Male,Bachelor,29,Sales Rep,Sales,Chennai,4.0,Python,Enterprise,Basic,2,7268496.68
+38,Female,Bachelor,14,Software Engineer,IT,Delhi,4.0,Python,Mid-Size,Basic,5,4599859.5
+41,Female,Bachelor,23,Marketing Specialist,Marketing,Kolkata,3.0,Management,Startup,None,5,3929124.59
+46,Female,Master,28,Software Engineer,IT,Bangalore,5.0,Communication,Startup,None,2,9047706.59
+43,Female,Bachelor,22,Software Engineer,IT,Delhi,2.0,SQL,Enterprise,None,4,7581418.57
+34,Female,High School,11,Software Engineer,IT,Remote,2.0,Communication,Enterprise,None,1,2339589.17
+40,Male,High School,18,Data Scientist,IT,Chennai,5.0,Marketing,Startup,None,3,3826022.13
+57,Male,PhD,38,Data Scientist,IT,Delhi,2.0,Marketing,Startup,None,3,13467613.08
+33,Male,Bachelor,13,Marketing Specialist,Marketing,Mumbai,5.0,Marketing,Mid-Size,None,1,2817509.82
+40,Male,Bachelor,22,Software Engineer,IT,Delhi,2.0,Management,Startup,None,1,4383138.84
+33,Female,Master,13,HR Manager,HR,Bangalore,3.0,Python,Startup,Advanced,4,4783808.3
+30,Other,Master,10,Marketing Specialist,Marketing,Mumbai,2.0,Communication,Startup,None,2,2343990.69
+28,Male,Bachelor,7,Software Engineer,IT,Hyderabad,4.0,SQL,Startup,None,1,2017302.58
+49,Male,Master,27,Software Engineer,IT,Chennai,5.0,Marketing,Mid-Size,Basic,2,9632248.07
+35,Female,Master,17,Data Scientist,IT,Chennai,1.0,Communication,Mid-Size,Basic,0,6043419.71
+52,Male,Master,32,Marketing Specialist,Marketing,Delhi,1.0,Marketing,Startup,None,3,6419894.75
+40,Female,Bachelor,22,Software Engineer,IT,Kolkata,5.0,Marketing,Startup,Basic,4,5400259.95
+37,Female,Master,18,Software Engineer,IT,Mumbai,3.0,SQL,Startup,Basic,3,6036617.05
+26,Female,Bachelor,5,Marketing Specialist,Marketing,Hyderabad,2.0,Management,Mid-Size,None,4,1498786.63
+56,,Bachelor,37,HR Manager,HR,Mumbai,3.0,Python,Startup,None,0,5923316.56
+33,Male,Bachelor,15,Marketing Specialist,Marketing,Chennai,1.0,Management,Mid-Size,None,3,3155340.85
+46,Female,High School,22,Marketing Specialist,Marketing,Mumbai,5.0,Communication,Mid-Size,None,0,3357610.91
+42,,Bachelor,24,HR Manager,HR,Hyderabad,5.0,Management,Startup,None,4,5043939.93
+57,Male,Master,35,Marketing Specialist,Marketing,Kolkata,3.0,Communication,Startup,Basic,1,6824048.61
+44,Female,High School,24,Software Engineer,IT,Delhi,3.0,Communication,Startup,None,3,4198862.41
+37,Male,Bachelor,17,Marketing Specialist,Marketing,Bangalore,2.0,Python,Mid-Size,None,0,3591659.01
+35,Female,Bachelor,16,HR Manager,HR,Mumbai,4.0,SQL,Enterprise,None,5,5324064.09
+52,Male,High School,31,Sales Rep,Sales,Bangalore,4.0,Python,Startup,None,3,4491747.65
+26,Other,PhD,2,Marketing Specialist,Marketing,Chennai,2.0,Management,Enterprise,Basic,3,1378826.88
+56,Male,Bachelor,33,Data Scientist,IT,Delhi,4.0,Communication,Startup,None,3,7989293.24
+44,Male,Bachelor,24,Software Engineer,IT,Remote,1.0,Marketing,Enterprise,Advanced,2,7706424.96
+50,Male,Bachelor,28,Software Engineer,IT,Delhi,4.0,,Mid-Size,None,0,6167978.57
+32,Male,Bachelor,13,Data Scientist,IT,Mumbai,2.0,Communication,Mid-Size,None,0,3675661.24
+39,Female,High School,20,Data Scientist,IT,Kolkata,4.0,Python,Mid-Size,Basic,3,4939862.01
+33,Other,Master,10,Marketing Specialist,Marketing,Delhi,,SQL,Mid-Size,None,1,2530416.05
+30,Male,PhD,8,Data Scientist,IT,Mumbai,3.0,Python,Enterprise,None,3,5548456.28
+31,Male,Bachelor,10,Sales Rep,Sales,Mumbai,1.0,Communication,Mid-Size,Basic,2,2039098.2
+38,Female,Master,16,HR Manager,HR,Bangalore,5.0,Communication,Mid-Size,None,4,5657881.17
+59,Female,Master,38,Data Scientist,IT,Delhi,5.0,SQL,Startup,Basic,2,12134618.1
+28,Female,Master,6,Data Scientist,IT,Mumbai,2.0,Management,Startup,Advanced,1,2618098.65
+34,Male,Bachelor,12,Sales Rep,Sales,Bangalore,3.0,Management,Enterprise,None,3,3617295.89
+30,Male,Bachelor,12,Software Engineer,IT,Hyderabad,3.0,SQL,Mid-Size,None,0,3292232.08
+48,Female,Bachelor,29,Software Engineer,IT,Remote,1.0,Management,Mid-Size,None,5,6482035.65
+23,Male,Master,1,Marketing Specialist,Marketing,Bangalore,2.0,Marketing,Mid-Size,None,3,765989.07
+26,Female,Master,3,Sales Rep,Sales,Bangalore,1.0,Management,Enterprise,Basic,1,1431344.12
+50,Male,Bachelor,28,HR Manager,HR,Mumbai,4.0,Management,Mid-Size,Basic,0,6040965.02
+58,Female,Bachelor,38,HR Manager,HR,Chennai,5.0,Management,Mid-Size,None,2,7670288.4
+59,Male,PhD,40,Sales Rep,Sales,Chennai,1.0,Marketing,Mid-Size,None,4,10880258.87
+40,Female,Master,20,HR Manager,HR,Kolkata,5.0,Management,Startup,None,4,4607593.41
+29,Male,PhD,10,Software Engineer,IT,Chennai,2.0,Marketing,Startup,None,3,3585995.16
+22,Female,Master,2,HR Manager,HR,Bangalore,4.0,SQL,Enterprise,Basic,2,1691268.82
+43,Male,Bachelor,21,HR Manager,HR,Kolkata,2.0,Python,Startup,None,5,3726584.54
+38,Female,Bachelor,16,Sales Rep,Sales,Mumbai,4.0,SQL,Enterprise,Basic,5,5025649.7
+28,Female,Master,10,Sales Rep,Sales,Delhi,4.0,Python,Startup,Basic,1,2101647.15
+46,Female,High School,23,HR Manager,HR,Remote,5.0,SQL,Startup,Basic,4,3141482.52
+25,Female,Bachelor,5,Data Scientist,IT,Remote,2.0,Python,Enterprise,None,2,1796350.24
+57,Female,Master,36,Sales Rep,Sales,Bangalore,2.0,Python,Mid-Size,Basic,3,10174532.1
+27,Female,Bachelor,9,Marketing Specialist,Marketing,Bangalore,1.0,,Startup,Basic,0,1783669.74
+52,Male,Master,32,Marketing Specialist,Marketing,Kolkata,2.0,Python,Mid-Size,Basic,3,7965046.79
+40,Female,Bachelor,20,Software Engineer,IT,Mumbai,1.0,Python,Mid-Size,None,3,5481443.25
+48,Male,PhD,30,HR Manager,HR,Hyderabad,3.0,Communication,Mid-Size,None,2,9873368.31
+31,Male,High School,9,Data Scientist,IT,Bangalore,3.0,Management,Startup,Basic,4,2846086.37
+47,Male,Bachelor,27,Software Engineer,IT,Hyderabad,3.0,Management,Enterprise,None,2,9757482.88
+40,Male,Master,18,HR Manager,HR,Hyderabad,2.0,Communication,Enterprise,None,0,6082074.19
+24,Female,Bachelor,6,Sales Rep,Sales,Chennai,2.0,Marketing,Startup,Advanced,2,1298004.32
+34,Female,Master,12,Marketing Specialist,Marketing,Mumbai,1.0,Python,Enterprise,None,1,3858192.67
+49,Female,Master,30,Data Scientist,IT,Remote,4.0,Python,Enterprise,None,3,11440840.7
+41,Female,Bachelor,20,Marketing Specialist,Marketing,Remote,1.0,Communication,Mid-Size,None,4,3255160.28
+49,Male,Bachelor,25,Sales Rep,Sales,Hyderabad,3.0,Communication,Mid-Size,Basic,5,5890393.82
+29,Male,Bachelor,9,HR Manager,HR,Remote,1.0,Marketing,Startup,None,0,1175644.92
+22,Male,Bachelor,0,Sales Rep,Sales,Mumbai,4.0,Management,Startup,Basic,5,499881.2
+24,Male,PhD,3,Sales Rep,Sales,Chennai,,SQL,Mid-Size,None,3,1215529.54
+34,Male,Master,10,Marketing Specialist,Marketing,Mumbai,1.0,Management,Enterprise,None,2,3504616.02
+49,Male,Master,27,Data Scientist,IT,Bangalore,3.0,Python,Mid-Size,Basic,5,14211095.84
+46,Female,Master,26,Sales Rep,Sales,Hyderabad,3.0,Communication,Mid-Size,None,1,5902157.9
+54,Female,Bachelor,32,Marketing Specialist,Marketing,Mumbai,2.0,Marketing,Startup,Advanced,2,6671923.47
+59,Other,PhD,40,Data Scientist,IT,Remote,1.0,Management,Startup,None,3,11498714.12
+27,Female,Master,9,HR Manager,HR,Delhi,4.0,Marketing,Mid-Size,None,5,2972587.74
+53,Female,Master,33,HR Manager,HR,Mumbai,2.0,Management,Startup,None,0,6662593.24
+42,Male,Master,18,Software Engineer,IT,Hyderabad,1.0,Python,Mid-Size,None,5,7070306.03
+37,Female,Bachelor,13,Marketing Specialist,Marketing,Chennai,5.0,SQL,Startup,Advanced,5,3437111.51
+42,Female,Master,23,Data Scientist,IT,Remote,3.0,Marketing,Mid-Size,Basic,4,7795238.01
+32,Male,Bachelor,13,Sales Rep,Sales,Chennai,4.0,Marketing,Startup,None,5,2339861.21
+58,Male,Bachelor,38,HR Manager,HR,Hyderabad,4.0,SQL,Mid-Size,None,3,8660393.32
+57,Female,Bachelor,35,Data Scientist,IT,Remote,4.0,Marketing,Mid-Size,Basic,0,7796786.14
+56,Male,PhD,33,Marketing Specialist,Marketing,Bangalore,3.0,Marketing,Startup,None,3,9827153.52
+40,Female,Master,16,Software Engineer,IT,Remote,1.0,Management,Startup,None,1,3222625.45
+41,Female,Master,17,HR Manager,HR,Bangalore,2.0,Management,Startup,Advanced,2,5560012.97
+39,Male,Master,20,Data Scientist,IT,Chennai,1.0,SQL,Enterprise,Advanced,5,13087939.45
+35,Male,Bachelor,14,Data Scientist,IT,Chennai,2.0,Python,Startup,Advanced,4,4852822.17
+36,Male,PhD,17,Data Scientist,IT,Hyderabad,4.0,Marketing,Mid-Size,Basic,0,8312299.1
+52,Male,Bachelor,29,Marketing Specialist,Marketing,Bangalore,1.0,Python,Enterprise,Basic,4,10040974.98
+22,Male,Bachelor,0,Marketing Specialist,Marketing,Chennai,4.0,SQL,Mid-Size,None,4,425848.59
+24,Female,Bachelor,2,Marketing Specialist,Marketing,Bangalore,5.0,SQL,Startup,None,4,864860.8
+37,Male,Master,16,Sales Rep,Sales,Chennai,4.0,Management,Enterprise,None,5,5434986.66
+44,Female,Master,20,Data Scientist,IT,Remote,4.0,Marketing,Startup,Basic,0,5001397.0
+32,Male,Bachelor,13,HR Manager,HR,Mumbai,2.0,Communication,Mid-Size,Basic,0,2885777.29
+33,Female,High School,11,Marketing Specialist,Marketing,Delhi,5.0,SQL,Enterprise,Basic,4,3050950.34
+31,Male,Master,8,Marketing Specialist,Marketing,Remote,4.0,Marketing,Mid-Size,Advanced,2,2174664.53
+53,Male,High School,33,Data Scientist,IT,Kolkata,4.0,Python,Mid-Size,Basic,5,8492786.1
+37,Female,Master,19,Marketing Specialist,Marketing,Mumbai,5.0,Management,Startup,Advanced,5,6217088.17
+29,Female,PhD,11,Sales Rep,Sales,Kolkata,5.0,Python,Startup,None,3,2761467.88
+59,Male,Bachelor,41,Sales Rep,Sales,Chennai,1.0,SQL,Mid-Size,Basic,5,8491624.01
+33,Female,Bachelor,9,Marketing Specialist,Marketing,Delhi,2.0,SQL,Startup,None,4,1708884.68
+45,Male,Master,26,Data Scientist,IT,Delhi,5.0,Python,Enterprise,None,1,11334397.0
+49,Male,Master,28,Data Scientist,IT,Chennai,5.0,SQL,Enterprise,Advanced,4,18040656.22
+29,Male,Bachelor,7,Data Scientist,IT,Chennai,3.0,Marketing,Enterprise,Basic,0,3115598.35
+49,Male,PhD,29,Software Engineer,IT,Bangalore,5.0,SQL,Mid-Size,None,5,15029843.53
+57,Female,High School,34,Marketing Specialist,Marketing,Chennai,2.0,Management,Mid-Size,None,5,5770802.65
+47,Male,Bachelor,27,Data Scientist,IT,Hyderabad,4.0,Marketing,Enterprise,Basic,3,12645416.94
+29,Male,Master,6,Sales Rep,Sales,Chennai,4.0,Communication,Enterprise,Basic,1,2293924.9
+49,Female,Master,25,HR Manager,HR,Hyderabad,4.0,SQL,Mid-Size,Advanced,5,10014921.72
+49,Female,Bachelor,30,HR Manager,HR,Chennai,4.0,SQL,Startup,None,3,5365480.94
+58,Male,Master,40,Data Scientist,IT,Bangalore,,Management,Startup,None,3,14586550.32
+57,Female,Bachelor,38,HR Manager,HR,Hyderabad,5.0,Management,Mid-Size,None,1,8012724.68
+48,Male,Bachelor,24,HR Manager,HR,Mumbai,4.0,Python,Mid-Size,None,4,5635230.69
+38,Female,Bachelor,17,Software Engineer,IT,Hyderabad,1.0,Python,Enterprise,None,4,6793078.21
+30,Female,Master,9,Sales Rep,Sales,Remote,4.0,Python,Startup,Advanced,4,2055342.65
+54,Other,Bachelor,30,Sales Rep,Sales,Bangalore,5.0,Management,Startup,None,2,5243188.88
+41,Male,Bachelor,18,Software Engineer,IT,Kolkata,4.0,Python,Startup,None,4,4115272.96
+34,Male,Bachelor,12,Software Engineer,IT,Hyderabad,3.0,Python,Startup,None,1,3022715.68
+49,,Master,27,HR Manager,HR,Remote,2.0,Communication,Startup,None,2,4557114.48
+50,Male,Master,27,Marketing Specialist,Marketing,Remote,2.0,Python,Mid-Size,Basic,4,6107530.49
+34,Male,Master,13,HR Manager,HR,Remote,5.0,SQL,Mid-Size,Basic,2,3148856.41
+56,Female,Bachelor,35,Software Engineer,IT,Chennai,2.0,Management,Mid-Size,Basic,1,9136066.74
+27,Male,Master,6,Sales Rep,Sales,Remote,2.0,Marketing,Startup,None,4,1095068.16
+39,Male,Bachelor,20,HR Manager,HR,Chennai,,Communication,Startup,None,0,3163206.49
+26,Female,Master,5,Marketing Specialist,Marketing,Kolkata,5.0,Management,Mid-Size,None,5,1832231.1
+46,Male,PhD,26,HR Manager,HR,Bangalore,5.0,Management,Enterprise,None,1,11967398.98
+23,Female,High School,5,Data Scientist,IT,Delhi,2.0,SQL,Startup,Basic,3,1216790.9
+31,Male,Master,10,HR Manager,HR,Chennai,2.0,Python,Enterprise,None,3,3729330.47
+51,,High School,28,Software Engineer,IT,Remote,2.0,SQL,Startup,Basic,1,3996921.2
+26,Male,Bachelor,8,Sales Rep,Sales,Remote,3.0,Python,Enterprise,None,3,1645436.01
+54,Male,Bachelor,35,Sales Rep,Sales,Mumbai,4.0,Python,Enterprise,Basic,1,8616850.55
+22,Female,Bachelor,0,Software Engineer,IT,Remote,3.0,Management,Startup,Advanced,0,415293.78
+39,Male,Bachelor,21,Data Scientist,IT,Bangalore,5.0,Python,Mid-Size,Basic,1,7748055.51
+53,,Master,30,Software Engineer,IT,Hyderabad,1.0,Communication,Startup,None,4,9292208.02
+32,Male,Bachelor,13,HR Manager,HR,Hyderabad,4.0,Communication,Enterprise,Advanced,4,5600174.02
+42,Male,Master,22,Software Engineer,IT,Remote,1.0,Communication,Mid-Size,Basic,2,6028402.82
+47,Female,Bachelor,28,Software Engineer,IT,Mumbai,5.0,Management,Mid-Size,None,3,8011950.87
+46,Male,High School,27,Data Scientist,IT,Chennai,,SQL,Mid-Size,None,5,7174894.02
+43,Female,Master,20,HR Manager,HR,Bangalore,1.0,Marketing,Enterprise,Basic,3,8831438.12
+48,Other,Bachelor,24,Marketing Specialist,Marketing,Mumbai,1.0,,Startup,Basic,1,4339860.86
+34,Female,Bachelor,12,Marketing Specialist,Marketing,Chennai,,Marketing,Mid-Size,None,5,2772296.14
+54,Female,Master,33,Sales Rep,Sales,Bangalore,5.0,SQL,Startup,None,5,8107949.89
+55,Male,Bachelor,34,Software Engineer,IT,Remote,2.0,SQL,Startup,Advanced,3,7371286.1
+56,,High School,36,Sales Rep,Sales,Hyderabad,1.0,Management,Mid-Size,None,5,5964837.42
+22,Male,Bachelor,2,Data Scientist,IT,Bangalore,4.0,Communication,Startup,None,5,1273441.49
+42,Female,PhD,21,Marketing Specialist,Marketing,Remote,,Communication,Startup,None,4,4661337.84
+27,Other,Master,5,Software Engineer,IT,Kolkata,3.0,SQL,Enterprise,Basic,0,2518707.78
+49,Male,Master,28,Data Scientist,IT,Delhi,3.0,Management,Startup,None,1,7716468.79
+38,Female,Master,14,Data Scientist,IT,Bangalore,4.0,Management,Mid-Size,Basic,3,7382391.58
+26,Male,Bachelor,4,Software Engineer,IT,Delhi,2.0,Python,Startup,None,4,1104357.27
+52,Female,Bachelor,32,Data Scientist,IT,Bangalore,1.0,Communication,Startup,Basic,2,9830238.35
+26,Male,Master,8,Software Engineer,IT,Delhi,5.0,SQL,Startup,Basic,5,3216930.06
+59,Other,Bachelor,36,Software Engineer,IT,Kolkata,1.0,Marketing,Mid-Size,None,5,9241151.05
+24,Female,Bachelor,0,HR Manager,HR,Hyderabad,5.0,Communication,Mid-Size,None,3,585930.57
+44,Male,Bachelor,20,Sales Rep,Sales,Chennai,3.0,Python,Startup,None,0,2700711.37
+58,Male,Bachelor,38,Data Scientist,IT,Delhi,1.0,Management,Startup,None,0,7721281.17
+58,Male,PhD,38,Data Scientist,IT,Kolkata,4.0,SQL,Enterprise,Basic,3,21842567.57
+31,Male,High School,12,HR Manager,HR,Delhi,2.0,Communication,Startup,None,3,1797829.35
+31,Male,Bachelor,7,HR Manager,HR,Hyderabad,4.0,Marketing,Enterprise,Basic,4,3012688.23
+40,Female,Bachelor,21,HR Manager,HR,Delhi,2.0,Python,Startup,None,3,3646272.14
+38,Female,PhD,19,Marketing Specialist,Marketing,Kolkata,1.0,Python,Mid-Size,None,2,5057553.73
+42,Female,Bachelor,19,Marketing Specialist,Marketing,Remote,1.0,Communication,Startup,None,4,2661781.16
+35,Male,Bachelor,16,Marketing Specialist,Marketing,Kolkata,2.0,Marketing,Enterprise,None,5,4325825.87
+30,Female,Master,8,Software Engineer,IT,Mumbai,3.0,Python,Mid-Size,None,5,3563740.83
+22,Female,Master,1,Data Scientist,IT,Hyderabad,,SQL,Mid-Size,Basic,5,1626835.47
+34,Male,Bachelor,16,Sales Rep,Sales,Remote,4.0,Python,Startup,None,5,2193463.86
+25,Female,Bachelor,5,Software Engineer,IT,Mumbai,4.0,Marketing,Mid-Size,None,1,1646372.0
+22,Female,Bachelor,0,Data Scientist,IT,Hyderabad,4.0,Management,Mid-Size,Basic,2,747253.04
+53,Male,Bachelor,35,Data Scientist,IT,Remote,1.0,Management,Startup,Basic,4,7727378.86
+55,Male,Bachelor,31,HR Manager,HR,Delhi,4.0,Communication,Startup,None,4,5543819.23
+49,Male,Bachelor,25,HR Manager,HR,Remote,5.0,Marketing,Enterprise,Basic,5,6747331.49
+52,Male,Bachelor,28,Software Engineer,IT,Kolkata,5.0,Python,Startup,None,0,5090758.23
+29,Female,Bachelor,7,HR Manager,HR,Mumbai,2.0,Python,Mid-Size,Basic,4,1954025.0
+47,Female,Master,25,Data Scientist,IT,Delhi,1.0,Management,Mid-Size,Basic,2,9275278.64
+55,Female,PhD,35,HR Manager,HR,Kolkata,5.0,Management,Enterprise,Basic,3,14535343.63
+24,Male,Master,3,Marketing Specialist,Marketing,Hyderabad,3.0,SQL,Enterprise,Basic,2,1799400.34
+33,Male,High School,14,HR Manager,HR,Remote,1.0,,Enterprise,None,5,2727055.98
+22,Female,High School,0,Data Scientist,IT,Kolkata,1.0,SQL,Startup,Basic,5,290867.71
+26,Female,PhD,3,Software Engineer,IT,Delhi,5.0,Python,Enterprise,None,1,2366876.88
+51,Male,Bachelor,30,Sales Rep,Sales,Mumbai,3.0,SQL,Startup,None,4,5019059.86
+51,Female,High School,28,HR Manager,HR,Mumbai,2.0,SQL,Mid-Size,None,4,5178824.24
+38,Female,Bachelor,18,Data Scientist,IT,Remote,5.0,Communication,Mid-Size,Advanced,4,5809709.48
+44,Male,Master,24,Sales Rep,Sales,Kolkata,3.0,Management,Startup,Basic,5,5133976.89
+36,Male,Master,16,Sales Rep,Sales,Delhi,1.0,SQL,Enterprise,None,4,4786993.73
+58,Female,Bachelor,40,Marketing Specialist,Marketing,Bangalore,3.0,Python,Startup,Basic,0,7569218.8
+42,Male,High School,19,Sales Rep,Sales,Hyderabad,1.0,Marketing,Mid-Size,Basic,0,2824851.26
+35,Male,PhD,14,Data Scientist,IT,Hyderabad,5.0,SQL,Mid-Size,None,3,7593647.87
+23,Male,Bachelor,2,Data Scientist,IT,Delhi,5.0,Management,Mid-Size,None,4,1319015.65
+32,Male,Master,10,HR Manager,HR,Bangalore,4.0,Communication,Startup,Basic,1,3014102.8
+59,Female,Master,37,HR Manager,HR,Mumbai,4.0,Python,Mid-Size,None,3,10159132.21
+55,Female,Master,31,HR Manager,HR,Remote,4.0,Communication,Enterprise,None,5,9181577.75
+59,Male,Bachelor,37,Sales Rep,Sales,Chennai,5.0,Marketing,Startup,Basic,4,6531421.28
+55,,Bachelor,35,Sales Rep,Sales,Chennai,2.0,SQL,Mid-Size,Advanced,0,6774611.64
+39,Female,Bachelor,18,Marketing Specialist,Marketing,Remote,5.0,SQL,Startup,Basic,1,2585046.04
+51,Female,Master,28,HR Manager,HR,Delhi,3.0,Management,Mid-Size,Basic,3,7777192.74
+36,Male,PhD,16,Software Engineer,IT,Bangalore,5.0,SQL,Enterprise,None,1,9784117.63
+48,Male,Bachelor,30,Marketing Specialist,Marketing,Bangalore,5.0,Python,Mid-Size,None,4,7457055.25
+55,Other,Bachelor,33,Software Engineer,IT,Hyderabad,1.0,Marketing,Mid-Size,Basic,2,9711726.77
+59,,PhD,39,Sales Rep,Sales,Mumbai,1.0,Communication,Mid-Size,None,1,9733312.4
+54,Male,Master,34,Marketing Specialist,Marketing,Kolkata,1.0,Marketing,Mid-Size,Basic,1,7682049.51
+45,Male,Master,27,Marketing Specialist,Marketing,Bangalore,5.0,SQL,Startup,None,5,7612097.86
+36,Male,Bachelor,17,Data Scientist,IT,Remote,2.0,Communication,Startup,None,0,3114362.95
+51,Female,Bachelor,30,Sales Rep,Sales,Kolkata,3.0,Management,Mid-Size,None,4,5134920.08
+38,Female,Master,15,Sales Rep,Sales,Chennai,3.0,Marketing,Mid-Size,Advanced,1,4045813.73
+26,Male,Master,2,Marketing Specialist,Marketing,Kolkata,2.0,Communication,Mid-Size,None,4,811952.7
+50,Male,Bachelor,31,Sales Rep,Sales,Mumbai,2.0,Communication,Startup,None,0,4232301.17
+25,Female,High School,3,Marketing Specialist,Marketing,Remote,3.0,Communication,Startup,None,5,541647.74
+31,Female,Bachelor,11,Data Scientist,IT,Mumbai,4.0,Python,Startup,Basic,4,3720795.59
+38,Male,Bachelor,20,Marketing Specialist,Marketing,Kolkata,1.0,Marketing,Enterprise,None,0,4188802.8
+31,Female,Bachelor,13,Sales Rep,Sales,Delhi,1.0,Communication,Mid-Size,None,0,2028791.51
+38,Other,PhD,17,Sales Rep,Sales,Bangalore,3.0,Marketing,Startup,None,3,4731993.3
+41,Male,Bachelor,22,Marketing Specialist,Marketing,Remote,2.0,Communication,Startup,Basic,5,3595849.69
+45,Female,Master,21,Marketing Specialist,Marketing,Delhi,4.0,Management,Enterprise,None,5,7388722.8
+26,Male,Bachelor,5,Marketing Specialist,Marketing,Kolkata,3.0,Management,Startup,None,4,1009181.72
+55,Female,Master,35,HR Manager,HR,Bangalore,1.0,Management,Enterprise,None,2,13155897.69
+27,Female,PhD,6,Sales Rep,Sales,Hyderabad,5.0,SQL,Startup,None,3,1937365.64
+23,Female,Bachelor,0,Sales Rep,Sales,Delhi,2.0,Communication,Enterprise,Basic,5,447303.28
+34,Female,High School,16,HR Manager,HR,Delhi,5.0,SQL,Enterprise,None,0,3061257.98
+32,Male,Bachelor,14,Marketing Specialist,Marketing,Kolkata,3.0,Marketing,Mid-Size,Advanced,5,3689156.87
+44,,High School,22,Data Scientist,IT,Chennai,1.0,SQL,Startup,Advanced,2,5347481.87
+37,Female,Master,15,Marketing Specialist,Marketing,Kolkata,4.0,Marketing,Startup,None,1,2859040.48
+52,Male,PhD,28,Marketing Specialist,Marketing,Delhi,5.0,Marketing,Mid-Size,Basic,1,8302548.24
+32,Female,Bachelor,12,HR Manager,HR,Bangalore,,Marketing,Mid-Size,Basic,5,4054620.75
+37,Female,Bachelor,14,Sales Rep,Sales,Chennai,1.0,SQL,Startup,Basic,5,2587999.01
+29,Male,Bachelor,10,Marketing Specialist,Marketing,Kolkata,5.0,Communication,Startup,None,3,1890778.78
+25,Female,Master,4,Sales Rep,Sales,Remote,4.0,SQL,Mid-Size,None,5,1194256.28
+25,Female,High School,1,Software Engineer,IT,Kolkata,4.0,Communication,Mid-Size,None,2,601426.52
+46,Male,Bachelor,26,Sales Rep,Sales,Delhi,5.0,Communication,Startup,Basic,5,4626714.51
+24,Other,Master,2,Data Scientist,IT,Delhi,1.0,Marketing,Startup,None,4,951550.71
+53,Male,Master,32,Data Scientist,IT,Hyderabad,4.0,SQL,Enterprise,None,2,16245524.74
+24,Male,Bachelor,2,Marketing Specialist,Marketing,Kolkata,3.0,Communication,Mid-Size,None,3,663748.82
+48,Male,Master,27,Sales Rep,Sales,Delhi,5.0,,Mid-Size,None,4,6390441.47
+50,,High School,31,Marketing Specialist,Marketing,Remote,2.0,Communication,Mid-Size,None,4,4107368.2
+53,Female,Bachelor,33,HR Manager,HR,Mumbai,2.0,Management,Startup,None,1,5595153.48
+40,Male,Master,19,Data Scientist,IT,Chennai,1.0,SQL,Startup,None,2,5754008.59
+42,Male,Master,19,Marketing Specialist,Marketing,Mumbai,3.0,SQL,Startup,Advanced,4,5699915.08
+26,Female,High School,2,HR Manager,HR,Chennai,4.0,SQL,Enterprise,None,3,889564.37
+39,Male,Bachelor,21,Marketing Specialist,Marketing,Remote,2.0,Communication,Mid-Size,Basic,1,3323148.79
+49,Female,Bachelor,26,Sales Rep,Sales,Kolkata,1.0,Python,Startup,None,4,3729253.68
+43,Female,Bachelor,20,Sales Rep,Sales,Hyderabad,3.0,Communication,Enterprise,None,2,4945827.76
+42,Female,Bachelor,18,Sales Rep,Sales,Delhi,3.0,Communication,Startup,Basic,1,2683020.2
+27,Other,High School,9,Sales Rep,Sales,Delhi,1.0,Marketing,Enterprise,Basic,2,1888786.98
+22,Male,Bachelor,0,Software Engineer,IT,Delhi,1.0,Marketing,Enterprise,None,2,312634.51
+26,Other,Master,5,HR Manager,HR,Kolkata,4.0,Communication,Startup,Advanced,2,1731689.72
+33,Female,Master,12,HR Manager,HR,Chennai,1.0,Management,Startup,Advanced,1,3112702.77
+47,Female,Master,26,Sales Rep,Sales,Remote,4.0,,Mid-Size,Advanced,4,6127575.63
+55,Male,High School,37,Software Engineer,IT,Delhi,4.0,Communication,Mid-Size,None,5,8102120.78
+35,Female,PhD,12,Sales Rep,Sales,Mumbai,5.0,Python,Mid-Size,None,0,3432065.81
+47,Male,Master,29,Software Engineer,IT,Delhi,3.0,Management,Enterprise,Basic,4,13697994.03
+48,Male,Master,27,Sales Rep,Sales,Kolkata,3.0,SQL,Mid-Size,Basic,1,5504701.9
+30,Male,Master,6,Data Scientist,IT,Remote,3.0,Communication,Startup,None,0,1597098.19
+47,Female,PhD,24,Data Scientist,IT,Hyderabad,5.0,Communication,Startup,Basic,0,9825483.03
+43,Female,Bachelor,20,Marketing Specialist,Marketing,Remote,4.0,Management,Mid-Size,None,0,2857651.12
+51,Female,Bachelor,29,Sales Rep,Sales,Mumbai,4.0,Marketing,Startup,None,5,5122380.39
+38,Female,Master,16,HR Manager,HR,Delhi,1.0,Marketing,Mid-Size,None,3,4083030.6
+47,Male,Master,28,Marketing Specialist,Marketing,Delhi,5.0,Marketing,Startup,Basic,1,5835920.15
+57,Female,Master,37,Data Scientist,IT,Bangalore,1.0,SQL,Startup,None,5,14383415.99
+22,Male,Bachelor,0,Sales Rep,Sales,Chennai,,Management,Startup,Basic,5,431192.88
+29,Female,High School,11,Marketing Specialist,Marketing,Mumbai,1.0,Management,Mid-Size,None,3,1914062.57
+56,Female,Bachelor,34,Sales Rep,Sales,Bangalore,2.0,Marketing,Startup,Basic,0,5860387.99
+36,Female,PhD,17,Data Scientist,IT,Remote,3.0,Marketing,Mid-Size,Advanced,3,7805849.02
+43,Female,Bachelor,20,Marketing Specialist,Marketing,Hyderabad,3.0,,Mid-Size,Basic,3,4991554.21
+35,Male,Bachelor,16,Data Scientist,IT,Chennai,4.0,Python,Mid-Size,Advanced,5,6940269.38
+47,Male,Bachelor,24,Software Engineer,IT,Mumbai,2.0,Communication,Mid-Size,None,1,6078738.61
+49,Female,Bachelor,25,Data Scientist,IT,Delhi,3.0,Communication,Startup,None,2,5846845.03
+44,Male,Master,20,Sales Rep,Sales,Remote,4.0,Management,Mid-Size,None,3,3692117.43
+35,Male,Master,12,HR Manager,HR,Mumbai,2.0,Management,Startup,None,3,3007818.45
+45,Male,Master,25,Data Scientist,IT,Delhi,3.0,SQL,Mid-Size,Basic,0,8471281.8
+23,Female,Bachelor,1,HR Manager,HR,Chennai,1.0,SQL,Startup,None,0,323668.64
+47,Male,Master,29,Software Engineer,IT,Delhi,5.0,Python,Mid-Size,None,5,10193063.08
+35,,Bachelor,17,Marketing Specialist,Marketing,Hyderabad,2.0,Communication,Enterprise,None,0,4285051.35
+28,Female,Master,7,Marketing Specialist,Marketing,Remote,4.0,Python,Mid-Size,None,4,1767695.15
+24,Female,Bachelor,1,HR Manager,HR,Kolkata,2.0,Python,Mid-Size,None,3,498037.45
+44,Male,Bachelor,26,Marketing Specialist,Marketing,Delhi,4.0,Communication,Mid-Size,Basic,0,4923754.5
+39,Male,Master,19,Data Scientist,IT,Hyderabad,2.0,SQL,Startup,None,1,6067227.45
+59,Male,PhD,36,HR Manager,HR,Kolkata,4.0,Communication,Enterprise,None,4,14164872.21
+56,Male,High School,36,Sales Rep,Sales,Remote,3.0,Marketing,Startup,Basic,5,4115072.9
+36,Male,Master,18,Data Scientist,IT,Chennai,1.0,Marketing,Enterprise,Basic,2,9165435.97
+46,Female,Bachelor,28,Data Scientist,IT,Chennai,3.0,Marketing,Mid-Size,None,3,8358015.37
+58,Female,Bachelor,37,Data Scientist,IT,Remote,1.0,Management,Mid-Size,Basic,3,9077606.38
+49,Female,High School,31,Sales Rep,Sales,Remote,3.0,SQL,Mid-Size,None,1,3161653.74
+31,Male,Bachelor,8,Software Engineer,IT,Mumbai,3.0,SQL,Mid-Size,None,2,2449907.42
+38,Female,Bachelor,14,Marketing Specialist,Marketing,Hyderabad,2.0,Management,Mid-Size,None,2,3146253.84
+43,Male,High School,20,HR Manager,HR,Hyderabad,5.0,Python,Startup,None,5,3629354.36
+47,Other,Bachelor,24,Software Engineer,IT,Remote,4.0,Marketing,Mid-Size,Basic,5,6043433.55
+46,Female,PhD,25,HR Manager,HR,Bangalore,4.0,Marketing,Mid-Size,None,4,9992729.19
+38,Male,Bachelor,17,Marketing Specialist,Marketing,Bangalore,4.0,Python,Enterprise,None,3,5605767.92
+34,Female,Master,16,Sales Rep,Sales,Kolkata,1.0,Communication,Mid-Size,Basic,0,3186204.3
+41,Male,Bachelor,22,Data Scientist,IT,Kolkata,4.0,Communication,Startup,None,5,5735356.55
+46,Female,Master,27,Data Scientist,IT,Bangalore,4.0,SQL,Startup,None,1,9152752.13
+25,Male,Bachelor,4,Sales Rep,Sales,Remote,2.0,Management,Mid-Size,Basic,1,616072.63
+31,Male,Bachelor,13,Software Engineer,IT,Remote,3.0,SQL,Startup,None,1,2200207.16
+24,Female,Bachelor,5,Software Engineer,IT,Kolkata,4.0,Communication,Startup,Basic,5,1694834.8
+39,Male,High School,21,HR Manager,HR,Delhi,5.0,Python,Enterprise,None,5,5153108.19
+57,Female,Bachelor,39,Sales Rep,Sales,Remote,4.0,SQL,Mid-Size,Basic,1,5421843.62
+43,Male,Master,25,Software Engineer,IT,Bangalore,1.0,Marketing,Mid-Size,None,5,10372355.19
+55,Female,Master,33,Sales Rep,Sales,Hyderabad,1.0,Marketing,Startup,Basic,0,6399684.23
+29,Female,Master,6,Marketing Specialist,Marketing,Remote,1.0,Python,Mid-Size,None,0,1151009.06
+40,Female,Master,22,Data Scientist,IT,Remote,4.0,Communication,Startup,Basic,4,6422637.96
+58,Male,Bachelor,36,Data Scientist,IT,Delhi,2.0,Marketing,Mid-Size,None,3,9985076.26
+27,Male,Bachelor,6,Data Scientist,IT,Kolkata,5.0,Marketing,Startup,None,0,1690089.42
+47,Male,Bachelor,28,Sales Rep,Sales,Remote,4.0,Management,Enterprise,None,4,5485776.71
+55,Male,Bachelor,32,Sales Rep,Sales,Chennai,2.0,SQL,Mid-Size,Basic,2,5974187.22
+27,Female,Bachelor,3,HR Manager,HR,Mumbai,2.0,Communication,Mid-Size,Advanced,3,1290224.01
+58,Female,Bachelor,39,Data Scientist,IT,Bangalore,4.0,SQL,Mid-Size,None,0,11743451.42
+54,Female,Bachelor,31,HR Manager,HR,Chennai,4.0,Communication,Mid-Size,None,2,6382694.71
+43,Female,Bachelor,19,Data Scientist,IT,Kolkata,2.0,Marketing,Startup,Basic,4,5069926.67
+42,Female,Master,23,HR Manager,HR,Hyderabad,,Management,Mid-Size,None,0,5748566.15
+27,Female,Master,4,HR Manager,HR,Mumbai,2.0,SQL,Startup,Advanced,0,1321468.39
+27,Male,Bachelor,8,Marketing Specialist,Marketing,Chennai,4.0,Marketing,Enterprise,Basic,5,3022571.7
+25,Female,PhD,6,HR Manager,HR,Mumbai,2.0,Communication,Enterprise,Basic,2,3259105.66
+51,Female,PhD,27,Sales Rep,Sales,Bangalore,1.0,,Startup,None,0,6234224.49
+32,Female,Bachelor,13,HR Manager,HR,Kolkata,,SQL,Enterprise,None,1,3395130.24
+51,Male,Bachelor,32,Data Scientist,IT,Remote,1.0,Marketing,Startup,Basic,5,7399188.91
+52,,Bachelor,28,HR Manager,HR,Hyderabad,3.0,SQL,Startup,Advanced,5,7444963.54
+45,Male,PhD,24,Software Engineer,IT,Kolkata,4.0,Management,Enterprise,Advanced,0,12636750.34
+30,Female,Master,12,Data Scientist,IT,Mumbai,3.0,Management,Mid-Size,None,5,5587747.11
+24,Female,Bachelor,4,Software Engineer,IT,Chennai,2.0,Marketing,Mid-Size,None,3,1444250.24
+52,Male,Bachelor,30,Data Scientist,IT,Bangalore,2.0,Communication,Startup,None,2,8468551.61
+58,Other,Bachelor,38,Sales Rep,Sales,Bangalore,5.0,Marketing,Startup,Basic,3,7502347.02
+57,Male,Bachelor,37,Sales Rep,Sales,Kolkata,2.0,Management,Enterprise,None,4,8039756.92
+45,Male,Bachelor,22,Sales Rep,Sales,Remote,3.0,Python,Startup,None,3,2657182.76
+52,Male,Master,34,Software Engineer,IT,Chennai,2.0,Python,Startup,None,1,8559754.19
+27,Female,Master,4,Marketing Specialist,Marketing,Remote,4.0,SQL,Mid-Size,None,5,1215976.47
+23,Female,Master,5,Data Scientist,IT,Remote,2.0,SQL,Mid-Size,Advanced,5,2475697.15
+41,,Master,17,Sales Rep,Sales,Chennai,5.0,Python,Mid-Size,None,1,3800377.17
+49,Female,Master,25,Data Scientist,IT,Mumbai,2.0,Management,Startup,None,5,8991938.9
+32,Male,Bachelor,14,Software Engineer,IT,Kolkata,3.0,SQL,Startup,None,3,2991111.87
+25,Female,Master,6,Marketing Specialist,Marketing,Kolkata,3.0,Marketing,Startup,None,4,1478968.62
+36,Female,Bachelor,15,Software Engineer,IT,Delhi,2.0,Marketing,Enterprise,None,0,4509029.02
+27,Female,Master,8,Data Scientist,IT,Kolkata,3.0,Management,Startup,None,1,2469126.78
+51,Male,Bachelor,30,Marketing Specialist,Marketing,Bangalore,3.0,SQL,Mid-Size,Basic,3,7789580.12
+59,Other,Master,36,Marketing Specialist,Marketing,Mumbai,5.0,Marketing,Mid-Size,None,3,9567942.69
+23,Female,Bachelor,2,Software Engineer,IT,Chennai,4.0,SQL,Enterprise,None,3,1346392.91
+36,Male,Bachelor,13,Sales Rep,Sales,Kolkata,5.0,SQL,Enterprise,None,0,2690151.03
+32,Female,Bachelor,8,Data Scientist,IT,Mumbai,1.0,Marketing,Startup,Basic,2,2376706.41
+29,Male,High School,9,HR Manager,HR,Kolkata,5.0,Python,Startup,None,5,1461229.6
+47,Female,Master,23,HR Manager,HR,Chennai,2.0,Marketing,Mid-Size,Basic,5,7319922.13
+26,Male,Master,2,Software Engineer,IT,Hyderabad,4.0,Management,Startup,None,4,1268779.25
+27,Female,Bachelor,7,Data Scientist,IT,Chennai,2.0,Communication,Mid-Size,Basic,2,2495884.96
+47,Female,Bachelor,26,Data Scientist,IT,Chennai,1.0,,Mid-Size,None,5,8205578.74
+25,Male,High School,4,Software Engineer,IT,Chennai,4.0,SQL,Enterprise,Advanced,4,2129487.67
+40,Male,High School,17,Data Scientist,IT,Kolkata,3.0,SQL,Startup,None,4,3378705.02
+41,Male,Bachelor,22,Sales Rep,Sales,Delhi,5.0,Marketing,Enterprise,None,3,5183030.88
+54,Male,Master,31,Software Engineer,IT,Chennai,2.0,,Startup,Basic,1,8666960.96
+41,Male,Bachelor,22,Sales Rep,Sales,Bangalore,1.0,Marketing,Mid-Size,None,3,4603958.62
+33,Female,Bachelor,9,Data Scientist,IT,Bangalore,3.0,Communication,Mid-Size,Advanced,0,3880001.62
+22,Male,Bachelor,2,Software Engineer,IT,Mumbai,5.0,,Mid-Size,None,5,1321774.55
+47,Male,Bachelor,23,Data Scientist,IT,Delhi,3.0,Management,Mid-Size,Basic,4,7621557.51
+35,Female,Bachelor,17,Software Engineer,IT,Mumbai,5.0,SQL,Enterprise,Basic,1,6710645.47
+59,Male,Master,38,Data Scientist,IT,Bangalore,4.0,SQL,Enterprise,Advanced,5,29048823.43
+58,Female,Bachelor,39,Sales Rep,Sales,Remote,3.0,Communication,Enterprise,Advanced,4,9229041.8
+32,Female,High School,9,Sales Rep,Sales,Bangalore,3.0,SQL,Startup,Basic,4,1730018.95
+57,Female,Bachelor,37,Data Scientist,IT,Hyderabad,3.0,Python,Enterprise,Basic,3,16769647.84
+34,Female,Bachelor,15,Software Engineer,IT,Chennai,4.0,,Mid-Size,None,1,3896461.76
+24,Female,Bachelor,1,HR Manager,HR,Remote,1.0,SQL,Startup,None,1,278732.63
+54,Male,PhD,33,Sales Rep,Sales,Bangalore,5.0,Python,Startup,Basic,5,10806075.73
+27,Male,Master,3,Sales Rep,Sales,Kolkata,3.0,Management,Startup,Advanced,4,1163207.06
+31,Male,Bachelor,10,HR Manager,HR,Kolkata,4.0,SQL,Startup,Basic,1,1882842.02
+26,Female,Bachelor,4,Data Scientist,IT,Mumbai,1.0,Python,Mid-Size,Advanced,1,1766762.8
+44,Male,Bachelor,26,Software Engineer,IT,Remote,5.0,,Enterprise,Basic,5,8687026.81
+31,Female,Bachelor,9,Data Scientist,IT,Mumbai,4.0,Marketing,Mid-Size,None,3,3281508.62
+23,Other,Master,3,Marketing Specialist,Marketing,Chennai,5.0,Python,Mid-Size,None,2,1359064.21
+34,Female,Master,15,Sales Rep,Sales,Chennai,3.0,Communication,Enterprise,None,0,3983126.28
+23,Female,Bachelor,3,Marketing Specialist,Marketing,Hyderabad,,Communication,Startup,None,2,755604.12
+41,Male,Bachelor,17,Sales Rep,Sales,Delhi,4.0,SQL,Enterprise,None,1,3734608.16
+22,Female,Bachelor,0,Sales Rep,Sales,Mumbai,1.0,Marketing,Mid-Size,Advanced,4,363601.93
+58,Female,Master,37,Marketing Specialist,Marketing,Chennai,3.0,Communication,Mid-Size,Basic,0,8790899.44
+30,Male,Master,8,Marketing Specialist,Marketing,Mumbai,1.0,Communication,Startup,None,0,1740326.06
+38,Male,Bachelor,16,Data Scientist,IT,Chennai,1.0,Marketing,Mid-Size,None,4,5010743.04
+30,Female,Bachelor,6,Marketing Specialist,Marketing,Bangalore,2.0,Management,Startup,None,0,1213574.19
+32,Female,Master,10,Data Scientist,IT,Mumbai,1.0,Communication,Mid-Size,None,4,4236639.85
+36,Female,Bachelor,12,Data Scientist,IT,Bangalore,5.0,Python,Startup,None,0,3462229.89
+45,Female,Bachelor,25,Data Scientist,IT,Mumbai,4.0,SQL,Enterprise,None,5,11170932.06
+59,Female,Bachelor,38,Sales Rep,Sales,Delhi,2.0,Communication,Startup,None,5,5926527.54
+56,Female,Master,37,Sales Rep,Sales,Hyderabad,4.0,Communication,Startup,None,2,7316194.96
+51,Male,Bachelor,28,Marketing Specialist,Marketing,Kolkata,4.0,Management,Mid-Size,Advanced,0,5683179.55
+52,Male,Bachelor,33,Sales Rep,Sales,Kolkata,3.0,Python,Startup,None,3,4641942.39
+26,Male,Master,6,Marketing Specialist,Marketing,Kolkata,3.0,SQL,Mid-Size,None,4,1769625.67
+35,Female,Bachelor,12,Sales Rep,Sales,Bangalore,2.0,Communication,Enterprise,None,0,3175102.32
+32,Female,Bachelor,10,Software Engineer,IT,Remote,3.0,SQL,Mid-Size,None,5,2569012.15
+30,Female,Bachelor,12,Software Engineer,IT,Chennai,3.0,Marketing,Startup,Basic,5,3518317.78
+55,Male,High School,35,Marketing Specialist,Marketing,Kolkata,3.0,Communication,Mid-Size,Basic,4,5835167.9
+33,Female,Master,13,Sales Rep,Sales,Delhi,4.0,Communication,Mid-Size,None,3,3040937.25
+56,Female,High School,35,Sales Rep,Sales,Kolkata,2.0,Marketing,Enterprise,Basic,0,5614324.15
+56,Female,Bachelor,37,Data Scientist,IT,Mumbai,4.0,Management,Startup,None,0,8317120.19
+22,Female,Bachelor,2,HR Manager,HR,Bangalore,5.0,Communication,Mid-Size,Basic,3,1258213.31
+43,Male,Master,23,Marketing Specialist,Marketing,Remote,4.0,SQL,Mid-Size,None,3,4529606.96
+50,Female,Master,28,HR Manager,HR,Mumbai,5.0,Python,Startup,None,3,6746837.55
+29,Male,Bachelor,7,HR Manager,HR,Remote,1.0,SQL,Startup,Basic,5,1257644.3
+32,Male,High School,9,Marketing Specialist,Marketing,Mumbai,1.0,Management,Mid-Size,Basic,4,1830893.07
+58,Male,Master,34,Sales Rep,Sales,Mumbai,5.0,Python,Enterprise,Basic,3,11503448.65
+35,Female,Bachelor,11,Marketing Specialist,Marketing,Hyderabad,5.0,SQL,Enterprise,None,4,3893906.31
+51,Other,Master,33,HR Manager,HR,Hyderabad,4.0,SQL,Mid-Size,None,2,9054212.46
+56,,Master,32,Sales Rep,Sales,Chennai,5.0,Marketing,Startup,Advanced,0,6796572.35
+42,Female,Master,21,Software Engineer,IT,Bangalore,2.0,Management,Startup,None,0,6154113.84
+58,Female,Bachelor,40,Marketing Specialist,Marketing,Delhi,1.0,Marketing,Enterprise,None,1,8726913.59
+26,,Bachelor,3,Marketing Specialist,Marketing,Delhi,1.0,Python,Enterprise,None,2,940559.86
+40,Male,Master,18,Sales Rep,Sales,Delhi,5.0,Marketing,Enterprise,None,3,5490794.83
+35,Male,Bachelor,11,Software Engineer,IT,Mumbai,3.0,Management,Mid-Size,None,3,3298011.33
+47,Male,Bachelor,28,Software Engineer,IT,Hyderabad,3.0,Communication,Startup,None,5,7530616.93
+25,Male,Master,3,Sales Rep,Sales,Bangalore,5.0,,Enterprise,None,2,1742589.48
+46,Male,Master,25,Data Scientist,IT,Mumbai,2.0,,Mid-Size,Advanced,3,12071945.13
+46,Male,Bachelor,24,Marketing Specialist,Marketing,Remote,3.0,Communication,Startup,None,1,2979515.83
+39,Male,High School,18,Marketing Specialist,Marketing,Hyderabad,5.0,Marketing,Mid-Size,None,4,3551128.59
+29,Other,Bachelor,8,HR Manager,HR,Hyderabad,2.0,Python,Startup,None,0,1492843.09
+35,Male,Master,14,Sales Rep,Sales,Kolkata,2.0,Management,Startup,Basic,2,2683416.76
+53,Male,PhD,30,HR Manager,HR,Kolkata,4.0,Python,Mid-Size,None,0,7657279.92
+59,Male,Bachelor,38,HR Manager,HR,Bangalore,2.0,Python,Mid-Size,Basic,4,10611744.29
+54,Female,High School,33,Software Engineer,IT,Remote,3.0,SQL,Enterprise,None,2,6774211.28
+44,Male,Master,25,Marketing Specialist,Marketing,Bangalore,3.0,SQL,Startup,Basic,4,7248825.96
+36,Male,Bachelor,18,HR Manager,HR,Bangalore,5.0,Python,Startup,None,3,4122452.46
+54,Female,Bachelor,34,Software Engineer,IT,Mumbai,5.0,Communication,Startup,None,3,8070698.78
+46,Male,PhD,28,Sales Rep,Sales,Chennai,2.0,SQL,Startup,Basic,3,6936769.64
+38,Male,High School,17,HR Manager,HR,Bangalore,,Management,Startup,Basic,4,3305771.42
+54,Male,Master,35,Marketing Specialist,Marketing,Kolkata,4.0,Marketing,Mid-Size,None,4,8334224.77
+23,Male,High School,1,HR Manager,HR,Chennai,1.0,SQL,Mid-Size,None,4,340981.1
+35,Male,Bachelor,16,Sales Rep,Sales,Mumbai,2.0,Python,Mid-Size,None,0,2679175.99
+27,Male,Master,6,HR Manager,HR,Chennai,2.0,Communication,Enterprise,Basic,4,2867436.1
+27,Female,Bachelor,8,Marketing Specialist,Marketing,Delhi,1.0,Marketing,Mid-Size,None,3,1651110.39
+24,Female,PhD,0,Software Engineer,IT,Remote,4.0,SQL,Startup,None,1,538385.71
+28,Female,Bachelor,9,Marketing Specialist,Marketing,Chennai,1.0,Communication,Startup,None,4,1730300.63
+29,Male,Bachelor,8,Software Engineer,IT,Bangalore,5.0,Communication,Enterprise,Basic,1,4015097.38
+36,Female,Bachelor,13,Data Scientist,IT,Mumbai,3.0,Communication,Mid-Size,Basic,3,4764459.24
+50,Male,Bachelor,26,Marketing Specialist,Marketing,Remote,5.0,Python,Enterprise,Basic,4,6352116.46
+54,Male,Bachelor,35,Marketing Specialist,Marketing,Bangalore,3.0,Management,Enterprise,None,0,9260727.82
+51,Female,High School,31,Sales Rep,Sales,Remote,2.0,Communication,Enterprise,Advanced,0,4900491.39
+48,Male,Bachelor,28,HR Manager,HR,Kolkata,4.0,Marketing,Enterprise,Basic,1,7237041.08
+57,Male,Bachelor,38,Software Engineer,IT,Delhi,1.0,SQL,Mid-Size,Basic,5,11176434.35
+50,Female,Master,27,Software Engineer,IT,Kolkata,4.0,Marketing,Startup,None,0,6039903.06
+59,Female,Master,37,Sales Rep,Sales,Bangalore,1.0,Python,Enterprise,None,0,10735483.01
+54,Male,Master,33,Sales Rep,Sales,Bangalore,,Python,Mid-Size,Basic,0,8410391.3
+58,Female,High School,38,HR Manager,HR,Bangalore,5.0,Marketing,Startup,None,3,6530285.13
+48,Other,Bachelor,26,HR Manager,HR,Hyderabad,1.0,Management,Mid-Size,None,0,5144963.47
+54,Male,Master,35,Marketing Specialist,Marketing,Delhi,4.0,Python,Mid-Size,Basic,2,8821278.09
+25,Male,Bachelor,3,Data Scientist,IT,Remote,1.0,,Enterprise,Basic,4,1433729.6
+43,Male,High School,19,HR Manager,HR,Bangalore,2.0,Marketing,Mid-Size,Advanced,0,4189539.55
+23,Male,Master,5,Sales Rep,Sales,Bangalore,5.0,Python,Startup,Basic,5,1841991.78
+31,Male,Master,11,HR Manager,HR,Remote,2.0,Management,Enterprise,None,5,3516590.54
+26,Female,Bachelor,7,Software Engineer,IT,Kolkata,5.0,Management,Enterprise,None,0,2453785.5
+31,Female,High School,10,Data Scientist,IT,Kolkata,5.0,Management,Mid-Size,None,0,2305430.91
+54,Female,Master,31,Marketing Specialist,Marketing,Bangalore,3.0,SQL,Startup,None,2,7413441.74
+59,Male,Bachelor,35,Software Engineer,IT,Mumbai,2.0,Management,Startup,None,0,7084464.67
+34,Female,Master,15,Software Engineer,IT,Hyderabad,2.0,Management,Mid-Size,None,0,4904057.41
+52,Other,Master,31,Data Scientist,IT,Kolkata,3.0,SQL,Startup,None,4,9326243.67
+57,Female,Master,34,Marketing Specialist,Marketing,Mumbai,4.0,Communication,Startup,Basic,5,9052213.71
+45,Male,Bachelor,22,Sales Rep,Sales,Hyderabad,2.0,Python,Mid-Size,Advanced,2,5203978.43
+36,Female,Bachelor,17,Marketing Specialist,Marketing,Bangalore,1.0,Management,Mid-Size,Basic,5,4763141.39
+50,Male,Master,26,HR Manager,HR,Delhi,3.0,Python,Mid-Size,Basic,2,6981398.15
+29,Male,Master,7,Software Engineer,IT,Chennai,2.0,Marketing,Startup,Basic,5,2655900.38
+26,Male,Master,4,HR Manager,HR,Chennai,4.0,Python,Mid-Size,Advanced,0,1649882.39
+50,Female,Bachelor,27,Sales Rep,Sales,Bangalore,2.0,SQL,Mid-Size,Basic,5,6740053.54
+25,Female,Bachelor,3,HR Manager,HR,Kolkata,5.0,Python,Startup,Basic,5,1076130.42
+33,Male,Master,15,Marketing Specialist,Marketing,Mumbai,1.0,Python,Startup,Advanced,2,4073030.43
+23,Male,Master,0,HR Manager,HR,Delhi,3.0,Python,Mid-Size,Advanced,1,542977.6
+48,Male,PhD,25,Sales Rep,Sales,Remote,5.0,Communication,Enterprise,None,2,6801109.36
+52,Male,Master,31,Sales Rep,Sales,Hyderabad,4.0,Communication,Mid-Size,None,2,7358723.52
+57,Male,Bachelor,35,Sales Rep,Sales,Bangalore,5.0,Marketing,Startup,None,2,6062157.72
+57,Male,Master,33,Marketing Specialist,Marketing,Delhi,5.0,SQL,Startup,None,3,6843639.51
+47,Female,Master,24,Sales Rep,Sales,Delhi,4.0,Python,Enterprise,None,3,6873248.28
+48,Male,Bachelor,24,Software Engineer,IT,Kolkata,5.0,Python,Startup,None,3,5189345.46
+26,Male,Master,8,Sales Rep,Sales,Hyderabad,3.0,Python,Mid-Size,None,2,2252625.71
+41,Male,Bachelor,20,HR Manager,HR,Delhi,2.0,Python,Mid-Size,None,1,3751905.55
+32,Female,Bachelor,13,HR Manager,HR,Kolkata,5.0,Communication,Startup,Basic,2,2508609.0
+31,Female,Master,7,HR Manager,HR,Mumbai,3.0,Marketing,Enterprise,None,0,2551701.18
+59,Female,Bachelor,36,Marketing Specialist,Marketing,Kolkata,2.0,Management,Mid-Size,Basic,1,6466005.8
+27,Male,Bachelor,9,HR Manager,HR,Mumbai,2.0,SQL,Mid-Size,Basic,3,2320445.5
+29,Female,Bachelor,9,Marketing Specialist,Marketing,Mumbai,5.0,,Startup,None,5,2074155.37
+44,Male,Bachelor,26,Marketing Specialist,Marketing,Remote,3.0,Marketing,Startup,Advanced,5,4787145.38
+47,Female,Bachelor,29,Sales Rep,Sales,Remote,5.0,Management,Mid-Size,None,4,4357980.0
+33,Female,Bachelor,12,Software Engineer,IT,Delhi,4.0,Marketing,Mid-Size,None,1,3220225.85
+47,Female,PhD,28,Sales Rep,Sales,Kolkata,2.0,Communication,Startup,None,3,5804842.32
+34,Female,Bachelor,14,Sales Rep,Sales,Remote,5.0,Management,Startup,None,1,1684449.66
+39,Female,Bachelor,17,Marketing Specialist,Marketing,Mumbai,2.0,Marketing,Startup,None,1,2901998.48
+46,Male,High School,24,Marketing Specialist,Marketing,Remote,3.0,Communication,Enterprise,None,5,4238503.19
+54,Female,Master,30,HR Manager,HR,Hyderabad,1.0,,Mid-Size,None,2,8004036.64
+33,Male,Bachelor,15,HR Manager,HR,Delhi,5.0,Marketing,Enterprise,None,0,3822692.07
+57,Female,Master,36,Sales Rep,Sales,Kolkata,5.0,Management,Startup,None,4,6590266.29
+25,Male,Master,4,Data Scientist,IT,Kolkata,2.0,Communication,Enterprise,Basic,3,2559878.64
+26,Male,Master,4,Data Scientist,IT,Chennai,3.0,Python,Startup,None,1,1569683.07
+58,Male,Bachelor,34,HR Manager,HR,Kolkata,4.0,SQL,Mid-Size,None,4,6878988.51
+29,Male,Master,5,Data Scientist,IT,Delhi,3.0,Management,Enterprise,None,1,2718605.09
+49,Male,Bachelor,25,HR Manager,HR,Hyderabad,5.0,Communication,Startup,None,5,5515355.92
+52,Female,PhD,32,Marketing Specialist,Marketing,Kolkata,4.0,Marketing,Mid-Size,None,0,7647763.32
+30,Male,Master,11,Sales Rep,Sales,Chennai,3.0,Communication,Startup,Basic,5,2775609.64
+50,Male,Bachelor,30,Software Engineer,IT,Delhi,1.0,SQL,Startup,None,4,6692993.45
+35,Female,Bachelor,12,Sales Rep,Sales,Mumbai,2.0,SQL,Mid-Size,Basic,3,2623868.21
+43,Male,Bachelor,20,HR Manager,HR,Bangalore,3.0,Python,Mid-Size,Basic,1,5138937.09
+32,Female,Master,13,HR Manager,HR,Bangalore,3.0,Python,Mid-Size,None,0,3786748.85
+44,Female,Bachelor,22,Sales Rep,Sales,Mumbai,1.0,SQL,Mid-Size,None,5,4471226.57
+22,Female,Bachelor,3,HR Manager,HR,Remote,5.0,Management,Mid-Size,Advanced,4,1170907.6
+58,Female,Bachelor,37,Data Scientist,IT,Kolkata,2.0,Management,Startup,Basic,5,9977624.39
+42,Male,Master,19,Data Scientist,IT,Bangalore,3.0,Marketing,Startup,None,1,6655839.23
+47,Female,Master,29,HR Manager,HR,Remote,4.0,Python,Enterprise,Basic,1,7930139.58
+57,Male,Master,39,HR Manager,HR,Bangalore,3.0,Marketing,Startup,Basic,3,11164093.39
+44,Male,Master,22,Data Scientist,IT,Mumbai,2.0,Python,Mid-Size,None,0,7444302.23
+22,,Bachelor,1,HR Manager,HR,Kolkata,3.0,SQL,Startup,Basic,2,395348.31
+36,Male,High School,16,HR Manager,HR,Kolkata,1.0,Management,Mid-Size,None,5,2861530.75
+42,Female,Master,21,Sales Rep,Sales,Remote,3.0,Management,Mid-Size,None,1,3500424.26
+30,,Bachelor,12,Software Engineer,IT,Mumbai,3.0,SQL,Startup,Advanced,4,3967284.04
+30,Female,Bachelor,12,Data Scientist,IT,Remote,4.0,Marketing,Startup,Basic,5,3177646.77
+31,Female,High School,8,Sales Rep,Sales,Kolkata,1.0,Marketing,Mid-Size,None,3,1082232.96
+47,,Bachelor,26,Software Engineer,IT,Kolkata,1.0,Communication,Startup,None,3,5235461.8
+56,Male,High School,35,HR Manager,HR,Delhi,3.0,Python,Startup,Basic,1,4720767.57
+46,Female,Master,28,HR Manager,HR,Remote,4.0,Marketing,Mid-Size,Basic,1,5909597.01
+47,Male,Bachelor,27,Sales Rep,Sales,Delhi,3.0,SQL,Startup,Basic,1,3913954.93
+32,Female,Bachelor,10,HR Manager,HR,Mumbai,3.0,Marketing,Enterprise,Advanced,2,3880421.14
+59,Female,High School,35,Marketing Specialist,Marketing,Hyderabad,2.0,Management,Mid-Size,Basic,1,6068986.05
+23,Female,Master,1,Sales Rep,Sales,Bangalore,2.0,Python,Startup,None,5,568260.35
+28,Male,Bachelor,7,Software Engineer,IT,Delhi,4.0,Communication,Mid-Size,None,5,2414294.71
+39,Male,Master,17,Sales Rep,Sales,Bangalore,5.0,Python,Mid-Size,None,0,4187408.03
+48,Male,Master,30,Data Scientist,IT,Chennai,2.0,Management,Startup,Basic,4,10751205.3
+55,Male,Bachelor,37,Sales Rep,Sales,Mumbai,5.0,Management,Mid-Size,Basic,1,6975264.1
+48,Female,PhD,27,HR Manager,HR,Hyderabad,1.0,Management,Startup,None,5,8506245.38
+38,Male,PhD,17,HR Manager,HR,Chennai,2.0,Management,Startup,None,5,5041295.41
+45,Male,Master,21,Marketing Specialist,Marketing,Chennai,2.0,SQL,Startup,None,5,4883071.52
+46,Male,Master,22,Marketing Specialist,Marketing,Kolkata,4.0,Communication,Startup,None,2,4199831.84
+28,Female,Bachelor,5,Marketing Specialist,Marketing,Chennai,5.0,Management,Startup,None,4,1291670.19
+27,Female,Bachelor,6,Software Engineer,IT,Mumbai,2.0,Management,Mid-Size,None,3,2011504.48
+45,Male,High School,25,Marketing Specialist,Marketing,Delhi,2.0,Marketing,Mid-Size,None,5,4194031.87
+54,Male,High School,32,Software Engineer,IT,Mumbai,4.0,Communication,Mid-Size,None,1,6463551.17
+50,Male,PhD,29,Marketing Specialist,Marketing,Delhi,4.0,Python,Mid-Size,None,5,9069308.15
+43,Male,Bachelor,24,Software Engineer,IT,Chennai,5.0,Communication,Enterprise,None,4,8971935.11
+47,Female,Master,24,Sales Rep,Sales,Chennai,1.0,Communication,Mid-Size,Basic,3,5912955.58
+49,Female,Master,30,Sales Rep,Sales,Hyderabad,1.0,,Mid-Size,None,2,7000431.69
+42,Male,Master,24,HR Manager,HR,Delhi,3.0,,Startup,Basic,0,4992717.74
+28,Male,PhD,4,Software Engineer,IT,Chennai,2.0,Management,Enterprise,Basic,1,2718702.19
+38,Other,Bachelor,16,Data Scientist,IT,Kolkata,5.0,SQL,Startup,None,0,3514612.74
+41,Male,High School,20,HR Manager,HR,Bangalore,2.0,Python,Startup,None,2,3269042.08
+41,Female,Bachelor,22,Sales Rep,Sales,Hyderabad,5.0,Marketing,Mid-Size,Advanced,4,5960643.67
+43,Male,Bachelor,21,Software Engineer,IT,Mumbai,5.0,Communication,Startup,Basic,4,5934240.57
+49,Male,High School,31,Marketing Specialist,Marketing,Hyderabad,5.0,Python,Startup,Advanced,2,5594635.74
+28,Male,Bachelor,4,Data Scientist,IT,Bangalore,2.0,Python,Mid-Size,Basic,5,2252748.15
+22,Female,Master,2,Sales Rep,Sales,Delhi,4.0,SQL,Mid-Size,None,2,851074.47
+53,Other,Bachelor,30,HR Manager,HR,Mumbai,2.0,Marketing,Mid-Size,None,1,6043060.38
+34,Male,Bachelor,12,Software Engineer,IT,Mumbai,5.0,Communication,Enterprise,None,3,4911671.7
+51,Male,Master,29,Data Scientist,IT,Delhi,3.0,Marketing,Startup,None,0,7671726.73
+44,Male,Bachelor,24,Software Engineer,IT,Remote,1.0,SQL,Startup,None,0,3550557.98
+40,Male,High School,18,Marketing Specialist,Marketing,Remote,5.0,Management,Mid-Size,Basic,4,2717737.73
+53,Male,Master,35,HR Manager,HR,Hyderabad,3.0,Python,Startup,None,5,9277819.18
